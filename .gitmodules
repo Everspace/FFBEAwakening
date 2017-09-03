@@ -1,0 +1,3 @@
+[submodule "DataMine"]
+	path = DataMine
+	url = https://github.com/aEnigmatic/ffbe.git
