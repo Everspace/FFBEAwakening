@@ -1,1 +1,7 @@
-build
+#Personal tool and such
+_*
+.vscode
+
+#node garbage
+**/node_modules/
+*npm-debug*

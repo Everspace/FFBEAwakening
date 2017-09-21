@@ -1,0 +1,62 @@
+.container {
+  /* a certain width */
+  width: 500px;
+  z-index: 10;
+}
+
+.containerOpen {
+
+}
+
+.input {
+  width: 100%;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.inputOpen {
+
+}
+
+.inputFocused {
+
+}
+
+.suggestionsContainer {
+  max-height: 550px;
+  overflow-y: auto;
+}
+
+.suggestionsContainerOpen {
+
+}
+
+.suggestionsList {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.suggestion {
+  width: 100%;
+}
+
+.suggestionFirst {
+
+}
+
+.suggestionHighlighted {
+  background-color: #AAA;
+}
+
+.sectionContainer {
+
+}
+
+.sectionContainerFirst {
+
+}
+
+.sectionTitle {
+
+}
