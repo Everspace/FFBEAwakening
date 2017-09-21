@@ -11,7 +11,7 @@ export const ItemImage = ({ itemId, size = 50, style = {} }) =>
       height: size,
       width: size,
       display: 'inline-block',
-      backgroundImage: "url('/build/img/items/frame-item.png')",
+      backgroundImage: "url('./build/img/items/frame-item.png')",
       backgroundPosition: 'centre',
       backgroundSize: 'cover',
       backgroundRepeat: 'no-repeat',
