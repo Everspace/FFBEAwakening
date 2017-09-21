@@ -8,9 +8,9 @@ module.exports = {
   context: path.resolve(__dirname, '..', 'src'),
   entry: ['./main.js'],
   output: {
-    path: path.join(__dirname, '..', 'docs', 'build'),
+    path: path.join(__dirname, '..', 'docs'),
     filename: 'bundle.js',
-    publicPath: '/'
+    publicPath: './'
   },
   module: {
     rules: require('./webpack.loaders.js')
