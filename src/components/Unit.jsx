@@ -47,7 +47,7 @@ const getBigBasePlateStyle = rarity => {
     // minHeight: standSize.height,
     height: standSize.height,
     backgroundColor: '#222',
-    backgroundImage: "url('/build/img/units/unit_charastand.png')",
+    backgroundImage: "url('./build/img/units/unit_charastand.png')",
     backgroundRepeat: 'no-repeat'
   }
 }
@@ -71,7 +71,7 @@ export const ImageWithBaseplate = ({ id, rarity = getData(id)['rarity_max'] }) =
           display: 'block',
           position: 'absolute'
         }}
-        src={`/build/img/units/Unit-${getName(id)}-${rarity}.png`} />
+        src={`./build/img/units/Unit-${getName(id)}-${rarity}.png`} />
     </div>
   </div>
 }
@@ -84,7 +84,7 @@ export const Star = ({ rarity, style }) =>
       margin: 0,
       ...style
     }}
-    src={`/build/img/shared/Rarity-${rarity}.png`}
+    src={`./build/img/shared/Rarity-${rarity}.png`}
   />
 
 const starEvenStyle = (rarity, index, step = 0.5) => {
@@ -192,7 +192,7 @@ export const Image = ({ id, rarity = getData(id)['rarity_max'], style = {}, clas
         filter: 'drop-shadow(1px 1px 1px)',
         ...(imageCSSAdjustments(id))
       }}
-      src={`/build/img/units/Unit-${getName(id)}-${rarity}.png`}
+      src={`./build/img/units/Unit-${getName(id)}-${rarity}.png`}
     />
     <Stars rarity={rarity}
       className='rowOfStars'
