@@ -8,7 +8,7 @@ import { Provider, connect } from 'react-redux'
 import { addValueObjects } from 'lib/object'
 
 import * as Item from 'ffbe/item'
-import { ItemImage } from 'components/Item'
+import { Image as ItemImage } from 'components/Item'
 
 import { Name, Image as UnitImage } from 'components/Unit'
 import UnitSelectionArea from 'components/UnitSelectionArea'
@@ -71,7 +71,7 @@ let NeededItems = ({ units }) => {
       .sort(Item.sortByName)
       .map(itemId =>
         <li style={{verticalAlign: 'middle', margin: '0.3em'}} key={itemId}>
-          <ItemImage itemId={itemId} />
+          <ItemImage id={itemId} />
           <span style={{verticalAlign: 'inherit'}}>
             {` ${itemAmount[itemId]}x ${Item.getName(itemId)}`}
           </span>
