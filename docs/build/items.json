@@ -1,0 +1,542 @@
+{
+  "106301800": {
+    "name": {
+      "en": "Musical Note",
+      "jp": "音符",
+      "kr": "음표",
+      "fr": "Note de musique",
+      "de": "Note",
+      "it": "Nota musical"
+    }
+  },
+  "106301900": {
+    "name": {
+      "en": "Perfume",
+      "jp": "香水",
+      "kr": "향수",
+      "fr": "Parfum",
+      "de": "Parfüm",
+      "it": "Perfume"
+    }
+  },
+  "106302000": {
+    "name": {
+      "en": "Lipstick",
+      "jp": "口紅",
+      "kr": "립스틱",
+      "fr": "Rouge à lèvres",
+      "de": "Lippenstift",
+      "it": "Pintalabios"
+    }
+  },
+  "106302100": {
+    "name": {
+      "en": "Nail Polish",
+      "jp": "指甲油",
+      "kr": "매니큐어",
+      "fr": "Vernis à ongles",
+      "de": "Nagellack",
+      "it": "Esmalte de uñas"
+    }
+  },
+  "106302200": {
+    "name": {
+      "en": "Face Powder",
+      "jp": "蜜粉",
+      "kr": "페이스 파우더",
+      "fr": "Poudre",
+      "de": "Puder",
+      "it": "Maquillaje en polvo"
+    }
+  },
+  "106302300": {
+    "name": {
+      "en": "Hair Spray",
+      "jp": "髮膠",
+      "kr": "헤어 스프레이",
+      "fr": "Laque",
+      "de": "Haarspray",
+      "it": "Laca"
+    }
+  },
+  "290010000": {
+    "name": {
+      "en": "Beast Meat",
+      "jp": "戰獸之肉",
+      "kr": "맹수 고기",
+      "fr": "Viande de bête",
+      "de": "Bestienfleisch",
+      "it": "Carne de alimaña"
+    }
+  },
+  "290010100": {
+    "name": {
+      "en": "Pearl of Wisdom",
+      "jp": "知識之珠",
+      "kr": "지식의 구슬",
+      "fr": "Perle de sagesse",
+      "de": "Perle der Weisheit",
+      "it": "Perla de sabiduría"
+    }
+  },
+  "290010200": {
+    "name": {
+      "en": "Allure Powder",
+      "jp": "魅惑之沙",
+      "kr": "매혹의 모래",
+      "fr": "Poudre de séduction",
+      "de": "Locksand",
+      "it": "Polvo encantador"
+    }
+  },
+  "290020000": {
+    "name": {
+      "en": "Litrock",
+      "jp": "光之石",
+      "kr": "빛나는 돌",
+      "fr": "Pierre de lumière",
+      "de": "Lichtkiesel",
+      "it": "Rocalita"
+    }
+  },
+  "290020100": {
+    "name": {
+      "en": "Seed of Life",
+      "jp": "生命種子",
+      "kr": "생명의 씨앗",
+      "fr": "Graine de vie",
+      "de": "Saat des Lebens",
+      "it": "Semilla de vida"
+    }
+  },
+  "290020200": {
+    "name": {
+      "en": "Crimson Tear",
+      "jp": "深紅之淚",
+      "kr": "진홍빛 눈물",
+      "fr": "Larme pourpre",
+      "de": "Sonnenträne",
+      "it": "Gota carmesí"
+    }
+  },
+  "290020300": {
+    "name": {
+      "en": "Mystic Ore",
+      "jp": "魔原石",
+      "kr": "마원석",
+      "fr": "Minerai mystique",
+      "de": "Mana-Erz",
+      "it": "Mineral místico"
+    }
+  },
+  "290020400": {
+    "name": {
+      "en": "Aqua Pearl",
+      "jp": "藍色寶珠",
+      "kr": "푸른 보주",
+      "fr": "Perle d'azur",
+      "de": "Blauperle",
+      "it": "Perla de agua"
+    }
+  },
+  "290020500": {
+    "name": {
+      "en": "Luminous Horn",
+      "jp": "燐光之角",
+      "kr": "빛 담은 뿔",
+      "fr": "Corne lumineuse",
+      "de": "Scheinendes Horn",
+      "it": "Cuerno luminoso"
+    }
+  },
+  "290020600": {
+    "name": {
+      "en": "Quality Parts",
+      "jp": "優質部件",
+      "kr": "정밀 부품",
+      "fr": "Pièces de qualité",
+      "de": "Qualitätsteile",
+      "it": "Piezas de calidad"
+    }
+  },
+  "290020700": {
+    "name": {
+      "en": "Rainbow Needle",
+      "jp": "七色針",
+      "kr": "오색 바늘",
+      "fr": "Aiguille arc-en-ciel",
+      "de": "Regenbogennadel",
+      "it": "Aguja arcoíris"
+    }
+  },
+  "290020800": {
+    "name": {
+      "en": "Golden Egg",
+      "jp": "金蛋",
+      "kr": "황금 알",
+      "fr": "Œuf doré",
+      "de": "Goldenes Ei",
+      "it": "Huevo dorado"
+    }
+  },
+  "290020900": {
+    "name": {
+      "en": "Book of Ruin",
+      "jp": "破滅之書",
+      "kr": "파멸의 서",
+      "fr": "Livre des ruines",
+      "de": "Buch des Untergangs",
+      "it": "Libro de la ruina"
+    }
+  },
+  "290030000": {
+    "name": {
+      "en": "Earth's Core",
+      "jp": "大地凝晶",
+      "kr": "대지의 결정",
+      "fr": "Noyau de la Terre",
+      "de": "Erdkern",
+      "it": "Núcleo terrestre"
+    }
+  },
+  "290030100": {
+    "name": {
+      "en": "Heaven's Ash",
+      "jp": "天空聖灰",
+      "kr": "하늘의 재",
+      "fr": "Cendre céleste",
+      "de": "Himmelsasche",
+      "it": "Cenizas del cielo"
+    }
+  },
+  "290030200": {
+    "name": {
+      "en": "Deepsea Bloom",
+      "jp": "深海魔花",
+      "kr": "심해의 요화",
+      "fr": "Fleur sous-marine",
+      "de": "Tiefseeblüte",
+      "it": "Flor submarina"
+    }
+  },
+  "290030300": {
+    "name": {
+      "en": "Scripture of Time",
+      "jp": "時空教典",
+      "kr": "시공의 경전",
+      "fr": "Livre sacré du temps",
+      "de": "Sutra der Zeit",
+      "it": "Escritura temporal"
+    }
+  },
+  "290030400": {
+    "name": {
+      "en": "Farplane Dew",
+      "jp": "異界露水",
+      "kr": "이계의 물방울",
+      "fr": "Rosée de l'Au-delà",
+      "de": "Tau des Abyssums",
+      "it": "Rocío del Etéreo"
+    }
+  },
+  "290030500": {
+    "name": {
+      "en": "Hard Rock",
+      "jp": "堅硬岩石",
+      "kr": "단단한 암석",
+      "fr": "Roche robuste",
+      "de": "Harter Fels",
+      "it": "Roca robusta"
+    }
+  },
+  "290030600": {
+    "name": {
+      "en": "Fury Seed",
+      "jp": "鬥氣之種",
+      "kr": "투지의 씨앗",
+      "fr": "Graine de furie",
+      "de": "Wutsamen",
+      "it": "Semilla de furia"
+    }
+  },
+  "290030700": {
+    "name": {
+      "en": "Wicked Drop",
+      "jp": "魔性液滴",
+      "kr": "마성의 물방울",
+      "fr": "Goutte maléfique",
+      "de": "Teufelstropfen",
+      "it": "Gota maligna"
+    }
+  },
+  "290030800": {
+    "name": {
+      "en": "Brilliant Ray",
+      "jp": "知性光片",
+      "kr": "지성의 빛조각",
+      "fr": "Éclat de génie",
+      "de": "Brillantstrahl",
+      "it": "Sabidurita"
+    }
+  },
+  "290030900": {
+    "name": {
+      "en": "Lucky Seedling",
+      "jp": "幸運種子",
+      "kr": "행운의 씨앗",
+      "fr": "Graine de chance",
+      "de": "Glückssetzling",
+      "it": "Semilla de la fortuna"
+    }
+  },
+  "290031000": {
+    "name": {
+      "en": "Bizarre Box",
+      "jp": "異想天開之箱",
+      "kr": "기상천외한 상자",
+      "fr": "Boîte étrange",
+      "de": "Bizarre Schachtel",
+      "it": "Caja bizarra"
+    }
+  },
+  "290040000": {
+    "name": {
+      "en": "Spiritsand",
+      "jp": "精靈光粉",
+      "kr": "정령의 빛가루",
+      "fr": "Poudre d'âme",
+      "de": "Elementarsand",
+      "it": "Arena espiritual"
+    }
+  },
+  "290040100": {
+    "name": {
+      "en": "God's Reliquary",
+      "jp": "眾神的遺物",
+      "kr": "신들의 유물",
+      "fr": "Reliquaire divin",
+      "de": "Göttliche Reliquie",
+      "it": "Relicario divino"
+    }
+  },
+  "290040200": {
+    "name": {
+      "en": "Dragon Heart",
+      "jp": "巨龍的心臟",
+      "kr": "거룡의 심장",
+      "fr": "Cœur de dragon",
+      "de": "Drachenherz",
+      "it": "Corazón de dragón"
+    }
+  },
+  "290040300": {
+    "name": {
+      "en": "Esper's Tear",
+      "jp": "幻獸之淚",
+      "kr": "환수의 눈물",
+      "fr": "Larme de chimère",
+      "de": "Esperträne",
+      "it": "Lágrima de esper"
+    }
+  },
+  "290040400": {
+    "name": {
+      "en": "Talmonite of Life",
+      "jp": "生命魔素",
+      "kr": "생명의 근원",
+      "fr": "Talmonite de vie",
+      "de": "Talmonit des Lebens",
+      "it": "Talmonita vital"
+    }
+  },
+  "290050100": {
+    "name": {
+      "en": "Esper Shard",
+      "jp": "魔幻結晶的碎片",
+      "kr": "환상결정 조각",
+      "fr": "Éclat de chimère",
+      "de": "Esperkristallsplitter",
+      "it": "Grava de esper"
+    }
+  },
+  "290050200": {
+    "name": {
+      "en": "Esper Cryst",
+      "jp": "魔幻結晶",
+      "kr": "환상결정",
+      "fr": "Cristal de chimère",
+      "de": "Esperkristall",
+      "it": "Cristal de esper"
+    }
+  },
+  "290050300": {
+    "name": {
+      "en": "Sacred Crystal",
+      "jp": "神幻結晶",
+      "kr": "신성결정",
+      "fr": "Cristal sacré",
+      "de": "Reiner Kristall",
+      "it": "Cristal sagrado"
+    }
+  },
+  "290050400": {
+    "name": {
+      "en": "Holy Crystal",
+      "jp": "神魔結晶",
+      "kr": "신마결정",
+      "fr": "Cristal bénit",
+      "de": "Heiliger Kristall",
+      "it": "Gema sagrada"
+    }
+  },
+  "290050500": {
+    "name": {
+      "en": "Divine Crystal",
+      "jp": "神魔王結晶",
+      "kr": "신마왕결정",
+      "fr": "Cristal divin",
+      "de": "Göttlicher Kristall",
+      "it": "Cristal divino"
+    }
+  },
+  "290060000": {
+    "name": {
+      "en": "Fairies' Writ",
+      "jp": "妖精王密書",
+      "kr": "요정왕의 밀서",
+      "fr": "Parchemin des fées",
+      "de": "Feenschrift",
+      "it": "Escrito del hada"
+    }
+  },
+  "290060100": {
+    "name": {
+      "en": "Rainbow Bloom",
+      "jp": "樂園的幻虹花",
+      "kr": "낙원의 환상무지개꽃",
+      "fr": "Muguet arc-en-ciel",
+      "de": "Regenbogenblüte",
+      "it": "Flor arcoiris"
+    }
+  },
+  "290060200": {
+    "name": {
+      "en": "Calamity Gem",
+      "jp": "災禍的封神珠",
+      "kr": "재앙의 봉신구슬",
+      "fr": "Gemme du chaos",
+      "de": "Katastrophenstein",
+      "it": "Gema calamitosa"
+    }
+  },
+  "290060300": {
+    "name": {
+      "en": "Prismatic Horn",
+      "jp": "神獸的極彩角",
+      "kr": "신수의 현란한 뿔",
+      "fr": "Corne prismatique",
+      "de": "Prismahorn",
+      "it": "Cuerno prismático"
+    }
+  },
+  "290060400": {
+    "name": {
+      "en": "Calamity Writ",
+      "jp": "終焉的預言書",
+      "kr": "종말의 예언서",
+      "fr": "Parchemin du chaos",
+      "de": "Katastrophenschrift",
+      "it": "Premonición final"
+    }
+  },
+  "291000100": {
+    "name": {
+      "en": "Lazareth's Note",
+      "jp": "拉扎雷斯之書",
+      "kr": "라자레스의 서",
+      "fr": "Livre de Lazareth",
+      "de": "Lazarets Notiz",
+      "it": "Nota de Lazareth"
+    }
+  },
+  "291000200": {
+    "name": {
+      "en": "Iris's Note",
+      "jp": "伊麗絲之書",
+      "kr": "이리스의 서",
+      "fr": "Livre d'Iris",
+      "de": "Iris' Notiz",
+      "it": "Nota de Iris"
+    }
+  },
+  "291000300": {
+    "name": {
+      "en": "Ivan's Note",
+      "jp": "伊凡之書",
+      "kr": "이반의 서",
+      "fr": "Livre d'Ivan",
+      "de": "Ivans Notiz",
+      "it": "Nota de Ivan"
+    }
+  },
+  "291000400": {
+    "name": {
+      "en": "Olga's Note",
+      "jp": "奧爾加之書",
+      "kr": "올가의 서",
+      "fr": "Livre d'Olga",
+      "de": "Olgas Notiz",
+      "it": "Nota de Olga"
+    }
+  },
+  "291000500": {
+    "name": {
+      "en": "Finnith's Note",
+      "jp": "菲尼斯之書",
+      "kr": "피니스의 서",
+      "fr": "Livre de Finnith",
+      "de": "Finnits Notiz",
+      "it": "Nota de Finnith"
+    }
+  },
+  "291100100": {
+    "name": {
+      "en": "Hermit's Teachings",
+      "jp": "隱者教誨",
+      "kr": "은둔자의 가르침",
+      "fr": "Savoir d'ermite",
+      "de": "Eremitenlehren",
+      "it": "Saber de ermitaño"
+    }
+  },
+  "291100200": {
+    "name": {
+      "en": "Star Mote",
+      "jp": "星之魔片",
+      "kr": "별빛의 마법 파편",
+      "fr": "Gravier stellaire",
+      "de": "Sternenstaub",
+      "it": "Guijo estelar"
+    }
+  },
+  "291100300": {
+    "name": {
+      "en": "Swordsmanship Notes",
+      "jp": "劍士戰術書",
+      "kr": "검사의 전술서",
+      "fr": "Notes de l'épéiste",
+      "de": "Schwertkunstnotizen",
+      "it": "Manual de espadachín"
+    }
+  },
+  "1209000826": {
+    "name": {
+      "en": "Shard of Kelsus",
+      "jp": "凱爾蘇斯的碎片",
+      "kr": "켈서스의 조각",
+      "fr": "Éclat de Kelsus",
+      "de": "Splitter von Kelsus",
+      "it": "Fragmento de Kelsus"
+    }
+  }
+}

@@ -1,0 +1,8462 @@
+{
+  "100000102": {
+    "rarity_min": 2,
+    "rarity_max": 6,
+    "name": {
+      "en": "Rain",
+      "jp": "雷因",
+      "kr": "레인",
+      "fr": "Rain",
+      "de": "Rain",
+      "it": "Rain"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 20,
+          "290010000": 8,
+          "290050200": 5,
+          "290020000": 3
+        }
+      },
+      "3": {
+        "materials": {
+          "290010000": 20,
+          "290050200": 10,
+          "290020000": 8,
+          "290030100": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020000": 15,
+          "290030100": 8,
+          "290050300": 5,
+          "290040000": 3,
+          "290050400": 3
+        }
+      },
+      "5": {
+        "materials": {
+          "290060000": 15,
+          "290060300": 8,
+          "290060200": 5,
+          "290060100": 3,
+          "290050500": 3
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100000115": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Hunter Rain",
+      "jp": "獵人雷因",
+      "kr": "헌터 레인",
+      "fr": "Rain chasseur",
+      "de": "Jäger-Rain",
+      "it": "Rain cazador"
+    },
+    "sex": "Male",
+    "game": null,
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100000202": {
+    "rarity_min": 2,
+    "rarity_max": 6,
+    "name": {
+      "en": "Lasswell",
+      "jp": "拉斯韋爾",
+      "kr": "라스웰",
+      "fr": "Lasswell",
+      "de": "Lasswell",
+      "it": "Lasswell"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 20,
+          "290010000": 8,
+          "290050200": 5,
+          "290020000": 3
+        }
+      },
+      "3": {
+        "materials": {
+          "290010000": 20,
+          "290050200": 10,
+          "290020000": 8,
+          "290030100": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020000": 15,
+          "290030100": 8,
+          "290050300": 5,
+          "290040000": 3,
+          "290050400": 3
+        }
+      },
+      "5": {
+        "materials": {
+          "290060000": 15,
+          "290060300": 8,
+          "290060200": 5,
+          "290060100": 3,
+          "290050500": 3
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100000215": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Hunter Lasswell",
+      "jp": "獵人拉斯韋爾",
+      "kr": "헌터 라스웰",
+      "fr": "Lasswell chasseur",
+      "de": "Jäger-Lasswell",
+      "it": "Lasswell cazador"
+    },
+    "sex": "Male",
+    "game": null,
+    "is_summonable": false,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060300": 10,
+          "290060000": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100000302": {
+    "rarity_min": 2,
+    "rarity_max": 6,
+    "name": {
+      "en": "Fina",
+      "jp": "菲娜",
+      "kr": "피나",
+      "fr": "Fina",
+      "de": "Fina",
+      "it": "Fina"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 20,
+          "290010100": 8,
+          "290050200": 5,
+          "290020400": 3
+        }
+      },
+      "3": {
+        "materials": {
+          "290010100": 20,
+          "290050200": 10,
+          "290020400": 8,
+          "290030100": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020400": 15,
+          "290030100": 8,
+          "290050300": 5,
+          "290040400": 3,
+          "290050400": 3
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 15,
+          "290060000": 8,
+          "290060400": 5,
+          "290060300": 3,
+          "290050500": 3
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100000315": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Dark Fina",
+      "jp": "魔人菲娜",
+      "kr": "마인 피나",
+      "fr": "Fina obscure",
+      "de": "Dunkel-Fina",
+      "it": "Fina oscura"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060100": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100000324": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Hunter Fina",
+      "jp": "獵人菲娜",
+      "kr": "헌터 피나",
+      "fr": "Fina chasseuse",
+      "de": "Jäger-Fina",
+      "it": "Fina cazadora"
+    },
+    "sex": "Female",
+    "game": null,
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020200": 25,
+          "290030900": 13,
+          "290050300": 15,
+          "290030600": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060000": 20,
+          "290060100": 10,
+          "290060300": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100000403": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Nichol",
+      "jp": "尼科爾",
+      "kr": "니콜",
+      "fr": "Nichol",
+      "de": "Nichol",
+      "it": "Nichol"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 20,
+          "290050200": 10,
+          "290020600": 8,
+          "290030200": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020600": 15,
+          "290030200": 8,
+          "290050300": 5,
+          "290040200": 3,
+          "290050400": 3
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100000414": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Hunter Nichol",
+      "jp": "獵人尼科爾",
+      "kr": "헌터 니콜",
+      "fr": "Nichol chasseur",
+      "de": "Jäger-Nichol",
+      "it": "Nichol cazador"
+    },
+    "sex": "Male",
+    "game": null,
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020200": 25,
+          "290030000": 13,
+          "290050300": 15,
+          "290040400": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060300": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100000503": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Lid",
+      "jp": "里德",
+      "kr": "리드",
+      "fr": "Lid",
+      "de": "Lid",
+      "it": "Lid"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 20,
+          "290050200": 10,
+          "290020600": 8,
+          "290030000": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020600": 15,
+          "290030000": 8,
+          "290050300": 5,
+          "290040100": 3,
+          "290050400": 3
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100000513": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Hunter Lid",
+      "jp": "獵人里德",
+      "kr": "헌터 리드",
+      "fr": "Lid chasseuse",
+      "de": "Jäger-Lid",
+      "it": "Lid cazadora"
+    },
+    "sex": "Female",
+    "game": null,
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020200": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020200": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100000603": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Sakura",
+      "jp": "櫻",
+      "kr": "사쿠라",
+      "fr": "Sakura",
+      "de": "Sakura",
+      "it": "Sakura"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 20,
+          "290050200": 10,
+          "290020300": 8,
+          "290030300": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020300": 15,
+          "290030300": 8,
+          "290050300": 5,
+          "290040300": 3,
+          "290050400": 3
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100000614": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Hunter Sakura",
+      "jp": "獵人櫻",
+      "kr": "헌터 사쿠라",
+      "fr": "Sakura chasseuse",
+      "de": "Jäger-Sakura",
+      "it": "Sakura cazadora"
+    },
+    "sex": "Female",
+    "game": null,
+    "is_summonable": false,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020100": 25,
+          "290030200": 13,
+          "290050300": 15,
+          "290040000": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060200": 10,
+          "290060300": 10,
+          "290060000": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100000703": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Jake",
+      "jp": "傑科",
+      "kr": "제이크",
+      "fr": "Jake",
+      "de": "Jake",
+      "it": "Jake"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 20,
+          "290050200": 10,
+          "290020200": 8,
+          "290030200": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020200": 15,
+          "290030200": 8,
+          "290050300": 5,
+          "290040200": 3,
+          "290050400": 3
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100000713": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Hunter Jake",
+      "jp": "獵人傑科",
+      "kr": "헌터 제이크",
+      "fr": "Jake chasseur",
+      "de": "Jäger-Jake",
+      "it": "Jake cazador"
+    },
+    "sex": "Male",
+    "game": null,
+    "is_summonable": false,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020000": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020000": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290040000": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100000901": {
+    "rarity_min": 1,
+    "rarity_max": 2,
+    "name": {
+      "en": "Rizer",
+      "jp": "賴澤",
+      "kr": "라이저",
+      "fr": "Rizer",
+      "de": "Rizer",
+      "it": "Rizer"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "1": {
+        "materials": {
+          "290050100": 3,
+          "290010000": 1,
+          "290050200": 1
+        }
+      },
+      "2": {
+      }
+    }
+  },
+  "100001001": {
+    "rarity_min": 1,
+    "rarity_max": 2,
+    "name": {
+      "en": "Leah",
+      "jp": "莉亞",
+      "kr": "리아",
+      "fr": "Leah",
+      "de": "Lea",
+      "it": "Leah"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "1": {
+        "materials": {
+          "290050100": 3,
+          "290010100": 1,
+          "290050200": 1
+        }
+      },
+      "2": {
+      }
+    }
+  },
+  "100001101": {
+    "rarity_min": 1,
+    "rarity_max": 2,
+    "name": {
+      "en": "Tronn",
+      "jp": "特倫",
+      "kr": "토른",
+      "fr": "Tronn",
+      "de": "Tronn",
+      "it": "Tronn"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "1": {
+        "materials": {
+          "290050100": 3,
+          "290010100": 1,
+          "290050200": 1
+        }
+      },
+      "2": {
+      }
+    }
+  },
+  "100001201": {
+    "rarity_min": 1,
+    "rarity_max": 2,
+    "name": {
+      "en": "Eldin",
+      "jp": "埃爾丹",
+      "kr": "엘딘",
+      "fr": "Eldin",
+      "de": "Eldin",
+      "it": "Eldin"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "1": {
+        "materials": {
+          "290050100": 3,
+          "290010000": 1,
+          "290050200": 1
+        }
+      },
+      "2": {
+      }
+    }
+  },
+  "100001301": {
+    "rarity_min": 1,
+    "rarity_max": 2,
+    "name": {
+      "en": "Baurg",
+      "jp": "博格",
+      "kr": "볼그",
+      "fr": "Baurg",
+      "de": "Baurg",
+      "it": "Baurg"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "1": {
+        "materials": {
+          "290050100": 3,
+          "290010000": 1,
+          "290050200": 1
+        }
+      },
+      "2": {
+      }
+    }
+  },
+  "100001401": {
+    "rarity_min": 1,
+    "rarity_max": 2,
+    "name": {
+      "en": "Gimlee",
+      "jp": "吉姆利",
+      "kr": "김리",
+      "fr": "Gimlee",
+      "de": "Gimly",
+      "it": "Gimlee"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "1": {
+        "materials": {
+          "290050100": 3,
+          "290010000": 1,
+          "290050200": 1
+        }
+      },
+      "2": {
+      }
+    }
+  },
+  "100001501": {
+    "rarity_min": 1,
+    "rarity_max": 2,
+    "name": {
+      "en": "Maxell",
+      "jp": "馬克塞爾",
+      "kr": "맥셀",
+      "fr": "Maxell",
+      "de": "Maxell",
+      "it": "Maxell"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "1": {
+        "materials": {
+          "290050100": 3,
+          "290010200": 1,
+          "290050200": 1
+        }
+      },
+      "2": {
+      }
+    }
+  },
+  "100001601": {
+    "rarity_min": 1,
+    "rarity_max": 2,
+    "name": {
+      "en": "Liza",
+      "jp": "莉薩",
+      "kr": "리자",
+      "fr": "Liza",
+      "de": "Lisa",
+      "it": "Liza"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "1": {
+        "materials": {
+          "290050100": 3,
+          "290010200": 1,
+          "290050200": 1
+        }
+      },
+      "2": {
+      }
+    }
+  },
+  "100001702": {
+    "rarity_min": 2,
+    "rarity_max": 3,
+    "name": {
+      "en": "Shiki",
+      "jp": "式",
+      "kr": "시키",
+      "fr": "Shiki",
+      "de": "Shiki",
+      "it": "Shiki"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 15,
+          "290010000": 5,
+          "290050200": 3,
+          "290020200": 1
+        }
+      },
+      "3": {
+      }
+    }
+  },
+  "100001802": {
+    "rarity_min": 2,
+    "rarity_max": 3,
+    "name": {
+      "en": "Mizell",
+      "jp": "米澤爾",
+      "kr": "미젤",
+      "fr": "Mizell",
+      "de": "Mizell",
+      "it": "Mizell"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 15,
+          "290010100": 5,
+          "290050200": 3,
+          "290020400": 1
+        }
+      },
+      "3": {
+      }
+    }
+  },
+  "100001902": {
+    "rarity_min": 2,
+    "rarity_max": 3,
+    "name": {
+      "en": "Ronaldo",
+      "jp": "羅納爾",
+      "kr": "로널",
+      "fr": "Ronaldo",
+      "de": "Ronaldo",
+      "it": "Ronaldo"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 15,
+          "290010100": 5,
+          "290050200": 3,
+          "290020500": 1
+        }
+      },
+      "3": {
+      }
+    }
+  },
+  "100002002": {
+    "rarity_min": 2,
+    "rarity_max": 3,
+    "name": {
+      "en": "Mel",
+      "jp": "梅爾",
+      "kr": "멜",
+      "fr": "Mel",
+      "de": "Mel",
+      "it": "Mel"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 15,
+          "290010200": 5,
+          "290050200": 3,
+          "290020800": 1
+        }
+      },
+      "3": {
+      }
+    }
+  },
+  "100002103": {
+    "rarity_min": 3,
+    "rarity_max": 4,
+    "name": {
+      "en": "Clyne",
+      "jp": "克萊因",
+      "kr": "클라인",
+      "fr": "Clyne",
+      "de": "Clyne",
+      "it": "Clyne"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 20,
+          "290050200": 10,
+          "290020000": 8,
+          "290030100": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+      }
+    }
+  },
+  "100002203": {
+    "rarity_min": 3,
+    "rarity_max": 4,
+    "name": {
+      "en": "Anzelm",
+      "jp": "安塞爾姆",
+      "kr": "안제룸",
+      "fr": "Anzelm",
+      "de": "Anselm",
+      "it": "Anzelm"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 20,
+          "290050200": 10,
+          "290020500": 8,
+          "290030200": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+      }
+    }
+  },
+  "100002303": {
+    "rarity_min": 3,
+    "rarity_max": 4,
+    "name": {
+      "en": "Luna",
+      "jp": "露娜",
+      "kr": "루나",
+      "fr": "Luna",
+      "de": "Luna",
+      "it": "Luna"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 20,
+          "290050200": 10,
+          "290020100": 8,
+          "290030000": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+      }
+    }
+  },
+  "100002403": {
+    "rarity_min": 3,
+    "rarity_max": 4,
+    "name": {
+      "en": "Bedile",
+      "jp": "貝迪爾",
+      "kr": "베딜",
+      "fr": "Bedile",
+      "de": "Bedir",
+      "it": "Bedile"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 20,
+          "290050200": 10,
+          "290020500": 8,
+          "290030300": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+      }
+    }
+  },
+  "100002503": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Duane",
+      "jp": "杜安",
+      "kr": "딘",
+      "fr": "Duane",
+      "de": "Deen",
+      "it": "Duane"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020500": 10,
+          "290030300": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020500": 20,
+          "290030300": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100002603": {
+    "rarity_min": 3,
+    "rarity_max": 6,
+    "name": {
+      "en": "Cerius",
+      "jp": "賽利亞斯",
+      "kr": "세리아스",
+      "fr": "Cerius",
+      "de": "Cerius",
+      "it": "Cerius"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020400": 10,
+          "290030300": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020400": 20,
+          "290030300": 10,
+          "290050300": 10,
+          "290040000": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100002703": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Roselia",
+      "jp": "羅塞莉亞",
+      "kr": "로자리아",
+      "fr": "Rosélia",
+      "de": "Roselia",
+      "it": "Roselia"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020400": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020400": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290040400": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100002803": {
+    "rarity_min": 3,
+    "rarity_max": 6,
+    "name": {
+      "en": "Medius",
+      "jp": "梅迪亞斯",
+      "kr": "메디우스",
+      "fr": "Medius",
+      "de": "Medius",
+      "it": "Medius"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020600": 10,
+          "290030300": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020600": 20,
+          "290030300": 10,
+          "290050300": 10,
+          "290040100": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060400": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100002901": {
+    "rarity_min": 1,
+    "rarity_max": 2,
+    "name": {
+      "en": "Sarai",
+      "jp": "薩拉伊",
+      "kr": "사라이",
+      "fr": "Sarai",
+      "de": "Sarai",
+      "it": "Sarai"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "1": {
+        "materials": {
+          "290050100": 8,
+          "290010200": 3,
+          "290050200": 1
+        }
+      },
+      "2": {
+      }
+    }
+  },
+  "100003002": {
+    "rarity_min": 2,
+    "rarity_max": 3,
+    "name": {
+      "en": "Paula",
+      "jp": "薩拉伊",
+      "kr": "폴라",
+      "fr": "Paula",
+      "de": "Paula",
+      "it": "Paula"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 20,
+          "290010100": 8,
+          "290050200": 5,
+          "290020300": 3
+        }
+      },
+      "3": {
+      }
+    }
+  },
+  "100003202": {
+    "rarity_min": 2,
+    "rarity_max": 3,
+    "name": {
+      "en": "Kenyu",
+      "jp": "健遊",
+      "kr": "켄유",
+      "fr": "Kenyu",
+      "de": "Kenyu",
+      "it": "Kenyu"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 20,
+          "290010000": 8,
+          "290050200": 5,
+          "290020100": 3
+        }
+      },
+      "3": {
+      }
+    }
+  },
+  "100003302": {
+    "rarity_min": 2,
+    "rarity_max": 3,
+    "name": {
+      "en": "Ollie",
+      "jp": "奧里",
+      "kr": "올리",
+      "fr": "Ollie",
+      "de": "Ollie",
+      "it": "Ollie"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 20,
+          "290010000": 8,
+          "290050200": 5,
+          "290020100": 3
+        }
+      },
+      "3": {
+      }
+    }
+  },
+  "100003402": {
+    "rarity_min": 2,
+    "rarity_max": 3,
+    "name": {
+      "en": "Carrie",
+      "jp": "卡里",
+      "kr": "캐리",
+      "fr": "Carrie",
+      "de": "Carrie",
+      "it": "Carrie"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290010200": 8,
+          "290050200": 10,
+          "290020600": 3
+        }
+      },
+      "3": {
+      }
+    }
+  },
+  "100003502": {
+    "rarity_min": 2,
+    "rarity_max": 3,
+    "name": {
+      "en": "Skaha",
+      "jp": "斯卡哈",
+      "kr": "스카하",
+      "fr": "Skaha",
+      "de": "Skaha",
+      "it": "Shaka"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 20,
+          "290010000": 8,
+          "290050200": 5,
+          "290020000": 3
+        }
+      },
+      "3": {
+      }
+    }
+  },
+  "100003602": {
+    "rarity_min": 2,
+    "rarity_max": 3,
+    "name": {
+      "en": "Montana",
+      "jp": "蒙塔納",
+      "kr": "몬타나",
+      "fr": "Montana",
+      "de": "Montana",
+      "it": "Montana"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 20,
+          "290010000": 8,
+          "290050200": 5,
+          "290020100": 3
+        }
+      },
+      "3": {
+      }
+    }
+  },
+  "100003703": {
+    "rarity_min": 3,
+    "rarity_max": 4,
+    "name": {
+      "en": "Russell",
+      "jp": "拉塞爾",
+      "kr": "라셀",
+      "fr": "Russell",
+      "de": "Russell",
+      "it": "Russel"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 20,
+          "290050200": 10,
+          "290020100": 8,
+          "290030000": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+      }
+    }
+  },
+  "100003803": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Miyuki",
+      "jp": "美雪",
+      "kr": "미유키",
+      "fr": "Miyuki",
+      "de": "Miyuki",
+      "it": "Miyuki"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 20,
+          "290050200": 10,
+          "290020200": 8,
+          "290030400": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020200": 15,
+          "290030400": 8,
+          "290050300": 8,
+          "290040000": 3
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100003903": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Gilbert",
+      "jp": "吉爾貝",
+      "kr": "질베르",
+      "fr": "Gilbert",
+      "de": "Gilbert",
+      "it": "Gilberto"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020700": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020700": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290040000": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100004003": {
+    "rarity_min": 3,
+    "rarity_max": 6,
+    "name": {
+      "en": "Xiao",
+      "jp": "曉",
+      "kr": "샤오",
+      "fr": "Xiao",
+      "de": "Xiao",
+      "it": "Xiao"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020100": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290040400": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060000": 20,
+          "290060100": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100004103": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Rakshasa",
+      "jp": "羅刹",
+      "kr": "라크샤사",
+      "fr": "Rakshasa",
+      "de": "Rakshasa",
+      "it": "Rakshasa"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020500": 10,
+          "290030300": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020500": 20,
+          "290030300": 10,
+          "290050300": 10,
+          "290040300": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100004203": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Ludmille",
+      "jp": "柳德米拉",
+      "kr": "류드밀라",
+      "fr": "Ludmilla",
+      "de": "Ludmilla",
+      "it": "Ludmille"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020500": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020500": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040400": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100004303": {
+    "rarity_min": 3,
+    "rarity_max": 6,
+    "name": {
+      "en": "Charlotte",
+      "jp": "夏洛特",
+      "kr": "샤를로트",
+      "fr": "Charlotte",
+      "de": "Charlotte",
+      "it": "Charlotte"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020000": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020000": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290040000": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060000": 20,
+          "290060300": 10,
+          "290060200": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100004403": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Artemios",
+      "jp": "阿特米奧",
+      "kr": "아르테미오스",
+      "fr": "Artemios",
+      "de": "Artemios",
+      "it": "Artemios"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020100": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040400": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100004604": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Chizuru",
+      "jp": "千鶴",
+      "kr": "치즈루",
+      "fr": "Chizuru",
+      "de": "Chizuru",
+      "it": "Chizuru"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020200": 25,
+          "290030000": 13,
+          "290050300": 15,
+          "290040400": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060300": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100004703": {
+    "rarity_min": 3,
+    "rarity_max": 6,
+    "name": {
+      "en": "Hayate",
+      "jp": "疾風",
+      "kr": "하야테",
+      "fr": "Hayate",
+      "de": "Hayate",
+      "it": "Hayate"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020200": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020200": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060100": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100004903": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Elle",
+      "jp": "艾爾",
+      "kr": "엘",
+      "fr": "Elle",
+      "de": "Ehl",
+      "it": "Elle"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020600": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020600": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100005004": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Luka",
+      "jp": "露露卡",
+      "kr": "루루카",
+      "fr": "Luluka",
+      "de": "Luka",
+      "it": "Luka"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020400": 25,
+          "290030800": 13,
+          "290050300": 15,
+          "290030700": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100005104": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Mercedes",
+      "jp": "梅塞德絲",
+      "kr": "메르세데스",
+      "fr": "Mercedes",
+      "de": "Mercedes",
+      "it": "Mercedes"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020100": 25,
+          "290030200": 13,
+          "290050300": 15,
+          "290040000": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060200": 10,
+          "290060300": 10,
+          "290060000": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100005203": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Lawrence",
+      "jp": "勞倫斯",
+      "kr": "로렌스",
+      "fr": "Lawrence",
+      "de": "Lawrence",
+      "it": "Lorenzo"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020100": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100005304": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Soleil",
+      "jp": "索蕾莜",
+      "kr": "솔레이유",
+      "fr": "Soleil",
+      "de": "Soleil",
+      "it": "Soleil"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020700": 25,
+          "290030000": 13,
+          "290050300": 15,
+          "290040300": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060300": 10,
+          "290060400": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100005404": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Shine",
+      "jp": "夏因",
+      "kr": "샤인",
+      "fr": "Shine",
+      "de": "Shine",
+      "it": "Shine"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020200": 25,
+          "290031000": 13,
+          "290050300": 15,
+          "290030900": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060300": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100005503": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Shera",
+      "jp": "榭拉",
+      "kr": "시엘라",
+      "fr": "Shera",
+      "de": "Shera",
+      "it": "Shera"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020600": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020600": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100005604": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Sozhe",
+      "jp": "索澤",
+      "kr": "소제",
+      "fr": "Sozhé",
+      "de": "Sozhe",
+      "it": "Sozhe"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020100": 25,
+          "290030000": 13,
+          "290050300": 15,
+          "290040200": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100005703": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Heltich",
+      "jp": "海爾蒂克",
+      "kr": "헬틱",
+      "fr": "Heltich",
+      "de": "Heltich",
+      "it": "Heltich"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020300": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020300": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040300": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100005805": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Marie",
+      "jp": "瑪麗",
+      "kr": "마리",
+      "fr": "Marie",
+      "de": "Marie",
+      "it": "Marie"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100005905": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Aileen",
+      "jp": "艾琳",
+      "kr": "아이린",
+      "fr": "Aileen",
+      "de": "Aileen",
+      "it": "Aileen"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100006003": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Ulrica",
+      "jp": "烏爾麗卡",
+      "kr": "울리카",
+      "fr": "Ulrica",
+      "de": "Ulrica",
+      "it": "Ulrica"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020200": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020200": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100006105": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Wilhelm",
+      "jp": "維魯赫魯姆",
+      "kr": "빌헬름",
+      "fr": "Wilhelm",
+      "de": "Wilhelm",
+      "it": "Wilhelm"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060300": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100006204": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Grace",
+      "jp": "格蕾斯",
+      "kr": "그레이스",
+      "fr": "Grace",
+      "de": "Grace",
+      "it": "Grace"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020600": 25,
+          "290030200": 13,
+          "290050300": 15,
+          "290040200": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100006303": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Abel",
+      "jp": "阿貝爾",
+      "kr": "아벨",
+      "fr": "Abel",
+      "de": "Abel",
+      "it": "Abel"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020200": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020200": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100006404": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Goken",
+      "jp": "剛健",
+      "kr": "고우켄",
+      "fr": "Goken",
+      "de": "Goken",
+      "it": "Goken"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020100": 25,
+          "290030100": 13,
+          "290050300": 15,
+          "290040400": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060000": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100006503": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Jean",
+      "jp": "瓊",
+      "kr": "진",
+      "fr": "Jean",
+      "de": "Jean",
+      "it": "Jean"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020600": 10,
+          "290030300": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020600": 20,
+          "290030300": 10,
+          "290050300": 10,
+          "290040100": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100006603": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Camille",
+      "jp": "卡米爾",
+      "kr": "카밀",
+      "fr": "Camille",
+      "de": "Camille",
+      "it": "Camille"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020100": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100006704": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Ilias",
+      "jp": "伊利亞斯",
+      "kr": "일즈",
+      "fr": "Ilias",
+      "de": "Ilias",
+      "it": "Elías"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020800": 25,
+          "290030800": 13,
+          "290050300": 15,
+          "290030700": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060300": 10,
+          "290060400": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100006805": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Fohlen",
+      "jp": "福倫",
+      "kr": "포렌",
+      "fr": "Fohlen",
+      "de": "Fohlen",
+      "it": "Fohlen"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100006904": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Victoria",
+      "jp": "維多利亞",
+      "kr": "빅토리아",
+      "fr": "Victoria",
+      "de": "Victoria",
+      "it": "Victoria"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020300": 25,
+          "290030700": 13,
+          "290050300": 15,
+          "290030800": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060300": 10,
+          "290060000": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100007004": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Amelia",
+      "jp": "艾美利亞",
+      "kr": "아멜리아",
+      "fr": "Amélia",
+      "de": "Amelia",
+      "it": "Amelia"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020200": 25,
+          "290031000": 13,
+          "290050300": 15,
+          "290030900": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060300": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100007104": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Beach Time Fina",
+      "jp": "海邊的菲娜",
+      "kr": "해변의 피나",
+      "fr": "Fina en maillot",
+      "de": "Strand-Fina",
+      "it": "Fina playera"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020400": 25,
+          "290030100": 13,
+          "290050300": 15,
+          "290040400": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100007205": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Seabreeze Dark Fina",
+      "jp": "涼爽魔人菲娜",
+      "kr": "바닷바람의 마인 피나",
+      "fr": "Fina obs. en maillot",
+      "de": "Dunkel-Seewind-Fina",
+      "it": "Fina oscura de la marea"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060100": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100007303": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Summer Lid",
+      "jp": "常夏里德",
+      "kr": "한여름의 리드",
+      "fr": "Lid en maillot",
+      "de": "Sommer-Lid",
+      "it": "Lid veraniega"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020600": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020600": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040100": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100007404": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Bran",
+      "jp": "布蘭",
+      "kr": "브란",
+      "fr": "Bran",
+      "de": "Bran",
+      "it": "Bran"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020500": 25,
+          "290030600": 13,
+          "290050300": 15,
+          "290030700": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060400": 10,
+          "290060000": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100007505": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Lunera",
+      "jp": "盧內拉",
+      "kr": "루네라",
+      "fr": "Lunera",
+      "de": "Lunera",
+      "it": "Lunera"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060300": 10,
+          "290060000": 10,
+          "290060400": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100007603": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Ruggles",
+      "jp": "拉格爾斯",
+      "kr": "러글스",
+      "fr": "Ruggles",
+      "de": "Ruggles",
+      "it": "Ruggles"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020600": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020600": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040100": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100007705": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Veritas of the Dark",
+      "jp": "常暗之維利亞斯",
+      "kr": "영원한 어둠의 베리어스",
+      "fr": "Veritas des Ténèbres",
+      "de": "Veritas der Finstere",
+      "it": "Veritas el tenebroso"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060100": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100007804": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Veritas of the Heavens",
+      "jp": "天風之維利亞斯",
+      "kr": "하늘바람의 베리어스",
+      "fr": "Veritas des Cieux",
+      "de": "Veritas der Himmlische",
+      "it": "Veritas el celestial"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020900": 25,
+          "290030600": 13,
+          "290050300": 15,
+          "290031000": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060300": 10,
+          "290060000": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100007904": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Veritas of the Waters",
+      "jp": "水華之維利亞斯",
+      "kr": "물꽃의 베리어스",
+      "fr": "Veritas des Mers",
+      "de": "Veritas der Meere",
+      "it": "Veritas el marino"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020900": 25,
+          "290030700": 13,
+          "290050300": 15,
+          "290030800": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060300": 10,
+          "290060000": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100008005": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Veritas of the Flame",
+      "jp": "劫火之維利亞斯",
+      "kr": "지옥불의 베리어스",
+      "fr": "Veritas des Flammes",
+      "de": "Veritas der Flammende",
+      "it": "Veritas el llameante"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060100": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100008104": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Veritas of the Earth",
+      "jp": "王土之維利亞斯",
+      "kr": "위대한 대지의 베리어스",
+      "fr": "Veritas des Terres",
+      "de": "Veritas der Erde",
+      "it": "Veritas el terrestre"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020900": 25,
+          "290030500": 13,
+          "290050300": 15,
+          "290031000": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060100": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100008205": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Veritas of the Light",
+      "jp": "光輝之維利亞斯",
+      "kr": "찬란한 빛의 베리어스",
+      "fr": "Veritas de la Lumière",
+      "de": "Veritas des Lichts",
+      "it": "Veritas el luminoso"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060300": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100008504": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Helena",
+      "jp": "海倫娜",
+      "kr": "헬레나",
+      "fr": "Helena",
+      "de": "Helena",
+      "it": "Helena"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020100": 25,
+          "290031000": 13,
+          "290050300": 15,
+          "290030900": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100008605": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Ayaka",
+      "jp": "彩花",
+      "kr": "아야카",
+      "fr": "Ayaka",
+      "de": "Ayaka",
+      "it": "Ayaka"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060300": 10,
+          "290060400": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100008703": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Timothy",
+      "jp": "蒂姆",
+      "kr": "팀",
+      "fr": "Timothy",
+      "de": "Timothy",
+      "it": "Timothy"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020300": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020300": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040300": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100008804": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Moogle",
+      "jp": "莫古利",
+      "kr": "모그리",
+      "fr": "Mog",
+      "de": "Mogry",
+      "it": "Moguri"
+    },
+    "sex": "Other",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020700": 25,
+          "290031000": 13,
+          "290050300": 15,
+          "290030900": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060300": 10,
+          "290060400": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100008903": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Guromu",
+      "jp": "格羅姆",
+      "kr": "그로무",
+      "fr": "Guromu",
+      "de": "Guromu",
+      "it": "Guromu"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020100": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100009004": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Aura",
+      "jp": "阿烏拉",
+      "kr": "아우라",
+      "fr": "Aura",
+      "de": "Aura",
+      "it": "Aura"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020100": 25,
+          "290030000": 13,
+          "290050300": 15,
+          "290040200": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100009105": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Loren",
+      "jp": "洛倫",
+      "kr": "로렌",
+      "fr": "Loren",
+      "de": "Loren",
+      "it": "Loren"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100009405": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Kelsus",
+      "jp": "凱爾蘇斯",
+      "kr": "켈서스",
+      "fr": "Kelsus",
+      "de": "Kelsus",
+      "it": "Kelsus"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "1209000826": 60
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100010104": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Silvia",
+      "jp": "希爾維婭",
+      "kr": "실비아",
+      "fr": "Silvia",
+      "de": "Silvia",
+      "it": "Silvia"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020500": 25,
+          "290030300": 13,
+          "290050300": 15,
+          "290040300": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060400": 10,
+          "290060100": 10,
+          "290060000": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "100010203": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Kamui",
+      "jp": "神威",
+      "kr": "카무이",
+      "fr": "Kamui",
+      "de": "Kamui",
+      "it": "Kamui"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020200": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020200": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040400": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "100010303": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Yuri",
+      "jp": "百合",
+      "kr": "유리",
+      "fr": "Yuri",
+      "de": "Yuri",
+      "it": "Yuri"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020200": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020200": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "201000104": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Warrior of Light",
+      "jp": "光之戰士",
+      "kr": "빛의 전사",
+      "fr": "Guerrier de la lumière",
+      "de": "Krieger des Lichts",
+      "it": "Guerrero de la Luz"
+    },
+    "sex": "Male",
+    "game": "FFI",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020000": 25,
+          "290030100": 13,
+          "290050300": 15,
+          "290040100": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060000": 20,
+          "290060300": 10,
+          "290060200": 10,
+          "290060400": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "201000203": {
+    "rarity_min": 3,
+    "rarity_max": 6,
+    "name": {
+      "en": "Garland",
+      "jp": "加蘭德",
+      "kr": "가란드",
+      "fr": "Garland",
+      "de": "Garland",
+      "it": "Garland"
+    },
+    "sex": "Male",
+    "game": "FFI",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020000": 10,
+          "290030400": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020000": 20,
+          "290030400": 10,
+          "290050300": 10,
+          "290040100": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060100": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "201000302": {
+    "rarity_min": 2,
+    "rarity_max": 3,
+    "name": {
+      "en": "Sarah",
+      "jp": "塞拉",
+      "kr": "세라",
+      "fr": "Sarah",
+      "de": "Sela",
+      "it": "Sarah"
+    },
+    "sex": "Female",
+    "game": "FFI",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 10,
+          "290010200": 3,
+          "290050200": 1,
+          "290020700": 1
+        }
+      },
+      "3": {
+      }
+    }
+  },
+  "202000103": {
+    "rarity_min": 3,
+    "rarity_max": 6,
+    "name": {
+      "en": "Firion",
+      "jp": "弗利奧尼爾",
+      "kr": "프리오닐",
+      "fr": "Firion",
+      "de": "Firion",
+      "it": "Firion"
+    },
+    "sex": "Male",
+    "game": "FFII",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020100": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "202000203": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Maria",
+      "jp": "瑪利亞",
+      "kr": "마리아",
+      "fr": "Maria",
+      "de": "Maria",
+      "it": "María"
+    },
+    "sex": "Female",
+    "game": "FFII",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 20,
+          "290050200": 10,
+          "290020400": 8,
+          "290030100": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020400": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290030700": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "202000303": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Guy",
+      "jp": "卡伊",
+      "kr": "가이",
+      "fr": "Guy",
+      "de": "Guy",
+      "it": "Guy"
+    },
+    "sex": "Male",
+    "game": "FFII",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020100": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "202000404": {
+    "rarity_min": 4,
+    "rarity_max": 5,
+    "name": {
+      "en": "Leon",
+      "jp": "萊昂哈特",
+      "kr": "레온하르트",
+      "fr": "Léon",
+      "de": "Leon",
+      "it": "Leon"
+    },
+    "sex": "Male",
+    "game": "FFII",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020200": 25,
+          "290030000": 13,
+          "290050300": 15,
+          "290040400": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "202000505": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Emperor",
+      "jp": "皇帝",
+      "kr": "황제",
+      "fr": "Empereur",
+      "de": "Imperator",
+      "it": "Emperador"
+    },
+    "sex": "Male",
+    "game": "FFII",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060300": 10,
+          "290060000": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "202001402": {
+    "rarity_min": 2,
+    "rarity_max": 3,
+    "name": {
+      "en": "Paul",
+      "jp": "保羅",
+      "kr": "폴",
+      "fr": "Paul",
+      "de": "Paul",
+      "it": "Pablo"
+    },
+    "sex": "Male",
+    "game": "FFII",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 8,
+          "290010000": 3,
+          "290050200": 1
+        }
+      },
+      "3": {
+      }
+    }
+  },
+  "203000105": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Onion Knight",
+      "jp": "洋蔥劍士",
+      "kr": "양파 검사",
+      "fr": "Chevalier Oignon",
+      "de": "Zwiebelritter",
+      "it": "Caballero Cebolla"
+    },
+    "sex": "Male",
+    "game": "FFIII",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "203000205": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Luneth",
+      "jp": "路涅斯",
+      "kr": "루네스",
+      "fr": "Luneth",
+      "de": "Luneth",
+      "it": "Luneth"
+    },
+    "sex": "Male",
+    "game": "FFIII",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "203000303": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Arc",
+      "jp": "亞爾柯",
+      "kr": "아르크",
+      "fr": "Arc",
+      "de": "Arc",
+      "it": "Arc"
+    },
+    "sex": "Male",
+    "game": "FFIII",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020300": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020300": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040300": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "203000404": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Refia",
+      "jp": "蕾菲雅",
+      "kr": "레피아",
+      "fr": "Refia",
+      "de": "Refia",
+      "it": "Refia"
+    },
+    "sex": "Female",
+    "game": "FFIII",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020400": 25,
+          "290030800": 13,
+          "290050300": 15,
+          "290030700": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "203000503": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Ingus",
+      "jp": "英格茲",
+      "kr": "잉그스",
+      "fr": "Ingus",
+      "de": "Ingus",
+      "it": "Ingus"
+    },
+    "sex": "Male",
+    "game": "FFIII",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020500": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020500": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040400": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "203000704": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Desch",
+      "jp": "德修",
+      "kr": "데쉬",
+      "fr": "Desch",
+      "de": "Desch",
+      "it": "Desch"
+    },
+    "sex": "Male",
+    "game": "FFIII",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020100": 25,
+          "290030600": 13,
+          "290050300": 15,
+          "290031000": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060000": 10,
+          "290060200": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "203000803": {
+    "rarity_min": 3,
+    "rarity_max": 6,
+    "name": {
+      "en": "Cloud of Darkness",
+      "jp": "暗黑之雲",
+      "kr": "어둠의 구름",
+      "fr": "Nuage de Ténèbres",
+      "de": "Wolke der Dunkelheit",
+      "it": "Nube de Oscuridad"
+    },
+    "sex": "Female",
+    "game": "FFIII",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020900": 10,
+          "290030400": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020900": 20,
+          "290030400": 10,
+          "290050300": 10,
+          "290040400": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060100": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "203000904": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Aria",
+      "jp": "艾麗婭",
+      "kr": "에리아",
+      "fr": "Aria",
+      "de": "Aria",
+      "it": "Elia"
+    },
+    "sex": "Female",
+    "game": "FFIII",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020400": 25,
+          "290030800": 13,
+          "290050300": 15,
+          "290030700": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060300": 10,
+          "290060400": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "203001003": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Sara",
+      "jp": "莎拉",
+      "kr": "사라",
+      "fr": "Sara",
+      "de": "Sara",
+      "it": "Sara"
+    },
+    "sex": "Female",
+    "game": "FFIII",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020700": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020700": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040000": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "204000103": {
+    "rarity_min": 3,
+    "rarity_max": 6,
+    "name": {
+      "en": "Cecil",
+      "jp": "塞西爾",
+      "kr": "세실",
+      "fr": "Cécil",
+      "de": "Cecil",
+      "it": "Cecil"
+    },
+    "sex": "Male",
+    "game": "FFIV",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020000": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020000": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290040100": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060000": 20,
+          "290060300": 10,
+          "290060200": 10,
+          "290060400": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "204000115": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Dark Knight Cecil",
+      "jp": "暗黑騎士塞西爾",
+      "kr": "암흑기사 세실",
+      "fr": "Cécil (chev. noir)",
+      "de": "Dunkelritter Cecil",
+      "it": "Cecil oscuro"
+    },
+    "sex": "Male",
+    "game": "FFIV",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060300": 10,
+          "290060000": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "204000203": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Kain",
+      "jp": "凱因",
+      "kr": "카인",
+      "fr": "Kaïn",
+      "de": "Kain",
+      "it": "Kain"
+    },
+    "sex": "Male",
+    "game": "FFIV",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 20,
+          "290050200": 10,
+          "290020000": 8,
+          "290030100": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020000": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290030600": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "204000304": {
+    "rarity_min": 4,
+    "rarity_max": 5,
+    "name": {
+      "en": "Rosa",
+      "jp": "羅莎",
+      "kr": "로자",
+      "fr": "Rosa",
+      "de": "Rosa",
+      "it": "Rosa"
+    },
+    "sex": "Female",
+    "game": "FFIV",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020400": 25,
+          "290030800": 13,
+          "290050300": 10,
+          "290030700": 8,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "204000403": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Rydia",
+      "jp": "莉迪亞",
+      "kr": "리디아",
+      "fr": "Rydia",
+      "de": "Rydia",
+      "it": "Rydia"
+    },
+    "sex": "Female",
+    "game": "FFIV",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 20,
+          "290050200": 10,
+          "290020300": 8,
+          "290030400": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020300": 20,
+          "290030400": 10,
+          "290050300": 10,
+          "290030700": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "204000503": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Tellah",
+      "jp": "泰拉",
+      "kr": "테라",
+      "fr": "Tellah",
+      "de": "Tellah",
+      "it": "Tellah"
+    },
+    "sex": "Male",
+    "game": "FFIV",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020300": 10,
+          "290030300": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020300": 20,
+          "290030300": 10,
+          "290050300": 10,
+          "290040300": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "204001113": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Edge",
+      "jp": "艾吉",
+      "kr": "엣지",
+      "fr": "Edge",
+      "de": "Edge",
+      "it": "Edge"
+    },
+    "sex": "Male",
+    "game": "FFIV",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020200": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020200": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "204001302": {
+    "rarity_min": 2,
+    "rarity_max": 3,
+    "name": {
+      "en": "King Giott",
+      "jp": "喬特",
+      "kr": "지오트 왕",
+      "fr": "Giotto",
+      "de": "König Giott",
+      "it": "Rey Giott"
+    },
+    "sex": "Male",
+    "game": "FFIV",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 10,
+          "290010000": 3,
+          "290050200": 1,
+          "290020100": 1
+        }
+      },
+      "3": {
+      }
+    }
+  },
+  "204001403": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Golbez",
+      "jp": "高貝扎",
+      "kr": "골베자",
+      "fr": "Golbez",
+      "de": "Golbez",
+      "it": "Golbez"
+    },
+    "sex": "Male",
+    "game": "FFIV",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020300": 10,
+          "290030300": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020300": 20,
+          "290030300": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "205000103": {
+    "rarity_min": 3,
+    "rarity_max": 6,
+    "name": {
+      "en": "Bartz",
+      "jp": "巴茲",
+      "kr": "버츠",
+      "fr": "Bartz",
+      "de": "Bartz",
+      "it": "Bartz"
+    },
+    "sex": "Male",
+    "game": "FFV",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020100": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040000": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "205000203": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Lenna",
+      "jp": "蕾娜",
+      "kr": "레나",
+      "fr": "Lenna",
+      "de": "Lenna",
+      "it": "Lenna"
+    },
+    "sex": "Female",
+    "game": "FFV",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020700": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020700": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040000": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "205000303": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Galuf",
+      "jp": "加拉夫",
+      "kr": "가라프",
+      "fr": "Galuf",
+      "de": "Galuf",
+      "it": "Galuf"
+    },
+    "sex": "Male",
+    "game": "FFV",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 20,
+          "290050200": 10,
+          "290020100": 8,
+          "290030000": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290030800": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "205000403": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Faris",
+      "jp": "法利斯",
+      "kr": "파리스",
+      "fr": "Faris",
+      "de": "Faris",
+      "it": "Faris"
+    },
+    "sex": "Female",
+    "game": "FFV",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020100": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040000": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "205000503": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Krile",
+      "jp": "可露兒",
+      "kr": "쿠루루",
+      "fr": "Krile",
+      "de": "Krile",
+      "it": "Krile"
+    },
+    "sex": "Female",
+    "game": "FFV",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 20,
+          "290050200": 10,
+          "290020500": 8,
+          "290030200": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020500": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290030700": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "205000703": {
+    "rarity_min": 3,
+    "rarity_max": 6,
+    "name": {
+      "en": "Exdeath",
+      "jp": "艾克斯迪司",
+      "kr": "엑스데스",
+      "fr": "Exdeath",
+      "de": "Exdeath",
+      "it": "Exdeath"
+    },
+    "sex": "Male",
+    "game": "FFV",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020300": 10,
+          "290030400": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020300": 20,
+          "290030400": 10,
+          "290050300": 10,
+          "290040100": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060300": 10,
+          "290060000": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "205000805": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Gilgamesh",
+      "jp": "吉爾伽美什",
+      "kr": "길가메시",
+      "fr": "Gilgamesh",
+      "de": "Gilgamesch",
+      "it": "Gilgamesh"
+    },
+    "sex": "Male",
+    "game": "FFV",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060300": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "206000103": {
+    "rarity_min": 3,
+    "rarity_max": 6,
+    "name": {
+      "en": "Terra",
+      "jp": "蒂娜",
+      "kr": "티나",
+      "fr": "Terra",
+      "de": "Terra",
+      "it": "Terra"
+    },
+    "sex": "Female",
+    "game": "FFVI",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020500": 10,
+          "290030400": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020500": 20,
+          "290030400": 10,
+          "290050300": 10,
+          "290040300": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "206000113": {
+    "rarity_min": 3,
+    "rarity_max": 4,
+    "name": {
+      "en": "Magitek Armor Terra",
+      "jp": "魔導兵器蒂娜",
+      "kr": "마도병기 티나",
+      "fr": "Terra en armure",
+      "de": "Terra in Magitek-Mech",
+      "it": "Unidad Magitec Terra"
+    },
+    "sex": "Female",
+    "game": "FFVI",
+    "is_summonable": false,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 20,
+          "290050200": 10,
+          "290020500": 8,
+          "290030400": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+      }
+    }
+  },
+  "206000125": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Trance Terra",
+      "jp": "入神蒂娜",
+      "kr": "트랜스 티나",
+      "fr": "Terra en transe",
+      "de": "Trance-Terra",
+      "it": "Terra en trance"
+    },
+    "sex": "Female",
+    "game": "FFVI",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060400": 10,
+          "290060000": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "206000203": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Locke",
+      "jp": "洛克",
+      "kr": "로크",
+      "fr": "Locke",
+      "de": "Lock",
+      "it": "Locke"
+    },
+    "sex": "Male",
+    "game": "FFVI",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020100": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040000": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "206000303": {
+    "rarity_min": 3,
+    "rarity_max": 4,
+    "name": {
+      "en": "Edgar",
+      "jp": "埃德加",
+      "kr": "에드가",
+      "fr": "Edgar",
+      "de": "Edgar",
+      "it": "Edgar"
+    },
+    "sex": "Male",
+    "game": "FFVI",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 20,
+          "290050200": 10,
+          "290020600": 8,
+          "290030000": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+      }
+    }
+  },
+  "206000403": {
+    "rarity_min": 3,
+    "rarity_max": 4,
+    "name": {
+      "en": "Sabin",
+      "jp": "馬修",
+      "kr": "매시",
+      "fr": "Sabin",
+      "de": "Sabin",
+      "it": "Sabin"
+    },
+    "sex": "Male",
+    "game": "FFVI",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 20,
+          "290050200": 10,
+          "290020100": 8,
+          "290030100": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+      }
+    }
+  },
+  "206000503": {
+    "rarity_min": 3,
+    "rarity_max": 4,
+    "name": {
+      "en": "Shadow",
+      "jp": "暗影",
+      "kr": "섀도우",
+      "fr": "Shadow",
+      "de": "Shadow",
+      "it": "Shadow"
+    },
+    "sex": "Male",
+    "game": "FFVI",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 20,
+          "290050200": 10,
+          "290020200": 8,
+          "290030200": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+      }
+    }
+  },
+  "206000603": {
+    "rarity_min": 3,
+    "rarity_max": 4,
+    "name": {
+      "en": "Cyan",
+      "jp": "凱嚴",
+      "kr": "카이엔",
+      "fr": "Cyan",
+      "de": "Cyan",
+      "it": "Cyan"
+    },
+    "sex": "Male",
+    "game": "FFVI",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 20,
+          "290050200": 10,
+          "290020200": 8,
+          "290030000": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+      }
+    }
+  },
+  "206000703": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Celes",
+      "jp": "塞麗絲",
+      "kr": "세리스",
+      "fr": "Celes",
+      "de": "Celes",
+      "it": "Celes"
+    },
+    "sex": "Female",
+    "game": "FFVI",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020500": 10,
+          "290030400": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020500": 20,
+          "290030400": 10,
+          "290050300": 10,
+          "290040300": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "206000804": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Setzer",
+      "jp": "塞策",
+      "kr": "셋쳐",
+      "fr": "Setzer",
+      "de": "Setzer",
+      "it": "Setzer"
+    },
+    "sex": "Male",
+    "game": "FFVI",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020700": 25,
+          "290030900": 13,
+          "290050300": 15,
+          "290030800": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060000": 10,
+          "290060300": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "206001103": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Gau",
+      "jp": "嘎嗚",
+      "kr": "가우",
+      "fr": "Gau",
+      "de": "Gau",
+      "it": "Gau"
+    },
+    "sex": "Male",
+    "game": "FFVI",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020200": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020200": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "206001502": {
+    "rarity_min": 2,
+    "rarity_max": 3,
+    "name": {
+      "en": "Wedge",
+      "jp": "魏吉",
+      "kr": "웨지",
+      "fr": "Wedge",
+      "de": "Wedge",
+      "it": "Wedge"
+    },
+    "sex": "Male",
+    "game": "FFVI",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 10,
+          "290010200": 3,
+          "290050200": 1,
+          "290020600": 1
+        }
+      },
+      "3": {
+      }
+    }
+  },
+  "206001602": {
+    "rarity_min": 2,
+    "rarity_max": 3,
+    "name": {
+      "en": "Biggs",
+      "jp": "比格斯",
+      "kr": "빅스",
+      "fr": "Biggs",
+      "de": "Biggs",
+      "it": "Biggs"
+    },
+    "sex": "Male",
+    "game": "FFVI",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 10,
+          "290010200": 3,
+          "290050200": 1,
+          "290020600": 1
+        }
+      },
+      "3": {
+      }
+    }
+  },
+  "206001703": {
+    "rarity_min": 3,
+    "rarity_max": 6,
+    "name": {
+      "en": "Kefka",
+      "jp": "凱夫卡",
+      "kr": "케프카",
+      "fr": "Kefka",
+      "de": "Kefka",
+      "it": "Kefka"
+    },
+    "sex": "Male",
+    "game": "FFVI",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020300": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020300": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040300": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060300": 10,
+          "290060000": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "206001803": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Leo",
+      "jp": "利奧",
+      "kr": "레오",
+      "fr": "Léo",
+      "de": "Leo",
+      "it": "Leo"
+    },
+    "sex": "Male",
+    "game": "FFVI",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020600": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020600": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "209000103": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Zidane",
+      "jp": "吉坦",
+      "kr": "지탄",
+      "fr": "Djidane",
+      "de": "Zidane",
+      "it": "Yitán"
+    },
+    "sex": "Male",
+    "game": "FFIX",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020200": 10,
+          "290030000": 5,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020200": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 3
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "209000203": {
+    "rarity_min": 3,
+    "rarity_max": 4,
+    "name": {
+      "en": "Vivi",
+      "jp": "比比",
+      "kr": "비비",
+      "fr": "Vivi",
+      "de": "Vivi",
+      "it": "Vivi"
+    },
+    "sex": "Male",
+    "game": "FFIX",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 20,
+          "290050200": 10,
+          "290020300": 8,
+          "290030200": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+      }
+    }
+  },
+  "209000304": {
+    "rarity_min": 4,
+    "rarity_max": 5,
+    "name": {
+      "en": "Garnet",
+      "jp": "嘉妮特",
+      "kr": "가넷",
+      "fr": "Grenat",
+      "de": "Garnet",
+      "it": "Garnet"
+    },
+    "sex": "Female",
+    "game": "FFIX",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020700": 25,
+          "290030200": 13,
+          "290050300": 15,
+          "290040000": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "209000503": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Freya",
+      "jp": "芙萊雅",
+      "kr": "프레이야",
+      "fr": "Freyja",
+      "de": "Freya",
+      "it": "Freija"
+    },
+    "sex": "Female",
+    "game": "FFIX",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020000": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020000": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "209000803": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Amarant",
+      "jp": "薩拉曼達",
+      "kr": "샐러맨더",
+      "fr": "Tarask",
+      "de": "Amarant",
+      "it": "Amarant"
+    },
+    "sex": "Male",
+    "game": "FFIX",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020100": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290040400": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "209000903": {
+    "rarity_min": 3,
+    "rarity_max": 4,
+    "name": {
+      "en": "Lani",
+      "jp": "拉妮",
+      "kr": "라니",
+      "fr": "Lamie",
+      "de": "Lani",
+      "it": "Lani"
+    },
+    "sex": "Female",
+    "game": "FFIX",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 20,
+          "290050200": 10,
+          "290020100": 8,
+          "290030000": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+      }
+    }
+  },
+  "209001003": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Kuja",
+      "jp": "庫加",
+      "kr": "쿠자",
+      "fr": "Kuja",
+      "de": "Kuja",
+      "it": "Kuja"
+    },
+    "sex": "Male",
+    "game": "FFIX",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020900": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020900": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040100": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "210000105": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Tidus",
+      "jp": "提達",
+      "kr": "티더",
+      "fr": "Tidus",
+      "de": "Tidus",
+      "it": "Tidus"
+    },
+    "sex": "Male",
+    "game": "FFX",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060000": 20,
+          "290060100": 10,
+          "290060200": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "210000303": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Wakka",
+      "jp": "瓦卡",
+      "kr": "와카",
+      "fr": "Wakka",
+      "de": "Wakka",
+      "it": "Wakka"
+    },
+    "sex": "Male",
+    "game": "FFX",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020600": 10,
+          "290030300": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020600": 20,
+          "290030300": 10,
+          "290050300": 10,
+          "290040100": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "210000704": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Rikku",
+      "jp": "琉克",
+      "kr": "류크",
+      "fr": "Rikku",
+      "de": "Rikku",
+      "it": "Rikku"
+    },
+    "sex": "Female",
+    "game": "FFX",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020200": 25,
+          "290030900": 13,
+          "290050300": 15,
+          "290030600": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "211000103": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Shantotto",
+      "jp": "香托托",
+      "kr": "샨토토",
+      "fr": "Shantotto",
+      "de": "Shantotto",
+      "it": "Shantotto"
+    },
+    "sex": "Female",
+    "game": "FFXI",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 20,
+          "290050200": 10,
+          "290020800": 8,
+          "290030400": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020800": 20,
+          "290030400": 10,
+          "290050300": 10,
+          "290030700": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "211000204": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Werei",
+      "jp": "韋萊",
+      "kr": "웨라이",
+      "fr": "Werei",
+      "de": "Werei",
+      "it": "Werei"
+    },
+    "sex": "Male",
+    "game": "FFXI",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020100": 25,
+          "290030600": 13,
+          "290050300": 15,
+          "290030500": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "211000303": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Kupipi",
+      "jp": "庫皮皮",
+      "kr": "쿠피피",
+      "fr": "Kupipi",
+      "de": "Kupipi",
+      "it": "Kupipi"
+    },
+    "sex": "Female",
+    "game": "FFXI",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020400": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020400": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290040400": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "211000405": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Prishe",
+      "jp": "普利修",
+      "kr": "프리쉬",
+      "fr": "Prishe",
+      "de": "Prishe",
+      "it": "Prishe"
+    },
+    "sex": "Female",
+    "game": "FFXI",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060000": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "212000103": {
+    "rarity_min": 3,
+    "rarity_max": 6,
+    "name": {
+      "en": "Vaan",
+      "jp": "梵恩",
+      "kr": "반",
+      "fr": "Vaan",
+      "de": "Vaan",
+      "it": "Vaan"
+    },
+    "sex": "Male",
+    "game": "FFXII",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020100": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "212000204": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Ashe",
+      "jp": "雅雪",
+      "kr": "아셰",
+      "fr": "Ashe",
+      "de": "Ashe",
+      "it": "Ashe"
+    },
+    "sex": "Female",
+    "game": "FFXII",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020700": 25,
+          "290030700": 13,
+          "290050300": 15,
+          "290030800": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060300": 10,
+          "290060400": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "212000403": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Penelo",
+      "jp": "潘妮蘿",
+      "kr": "판네로",
+      "fr": "Penelo",
+      "de": "Penelo",
+      "it": "Penelo"
+    },
+    "sex": "Female",
+    "game": "FFXII",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 20,
+          "290050200": 10,
+          "290020700": 8,
+          "290030000": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020700": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040300": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "212000505": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Balthier",
+      "jp": "巴爾弗雷亞",
+      "kr": "발프레아",
+      "fr": "Balthier",
+      "de": "Balthier",
+      "it": "Balthier"
+    },
+    "sex": "Male",
+    "game": "FFXII",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "212000603": {
+    "rarity_min": 3,
+    "rarity_max": 4,
+    "name": {
+      "en": "Fran",
+      "jp": "芙蘭",
+      "kr": "프란",
+      "fr": "Fran",
+      "de": "Fran",
+      "it": "Fran"
+    },
+    "sex": "Female",
+    "game": "FFXII",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 20,
+          "290050200": 10,
+          "290020600": 8,
+          "290030100": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+      }
+    }
+  },
+  "212000702": {
+    "rarity_min": 2,
+    "rarity_max": 3,
+    "name": {
+      "en": "Anastasis",
+      "jp": "阿納斯塔西斯",
+      "kr": "아나스타시스",
+      "fr": "Anastasis",
+      "de": "Anastasis",
+      "it": "Anastasis"
+    },
+    "sex": "Male",
+    "game": "FFXII",
+    "is_summonable": false,
+    "awakenings": {
+      "2": {
+        "materials": {
+          "290050100": 10,
+          "290010100": 3,
+          "290050200": 1,
+          "290020400": 1
+        }
+      },
+      "3": {
+      }
+    }
+  },
+  "212001004": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Rasler",
+      "jp": "拉斯勒",
+      "kr": "라슬러",
+      "fr": "Rasler",
+      "de": "Rasler",
+      "it": "Rasler"
+    },
+    "sex": "Male",
+    "game": "FFXII",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020600": 25,
+          "290030500": 13,
+          "290050300": 15,
+          "290030600": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060300": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "213000105": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Lightning",
+      "jp": "雷光",
+      "kr": "라이트닝",
+      "fr": "Lightning",
+      "de": "Lightning",
+      "it": "Lightning"
+    },
+    "sex": "Female",
+    "game": "FFXIII",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060000": 20,
+          "290060100": 10,
+          "290060200": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "213000204": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Snow",
+      "jp": "冰雪",
+      "kr": "스노우",
+      "fr": "Snow",
+      "de": "Snow",
+      "it": "Snow"
+    },
+    "sex": "Male",
+    "game": "FFXIII",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020100": 25,
+          "290030100": 13,
+          "290050300": 15,
+          "290040400": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060200": 10,
+          "290060000": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "213000304": {
+    "rarity_min": 4,
+    "rarity_max": 5,
+    "name": {
+      "en": "Vanille",
+      "jp": "班尼拉",
+      "kr": "바닐라",
+      "fr": "Vanille",
+      "de": "Vanille",
+      "it": "Vanille"
+    },
+    "sex": "Female",
+    "game": "FFXIII",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020400": 25,
+          "290030100": 13,
+          "290050300": 15,
+          "290040400": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "213000403": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Sazh",
+      "jp": "薩茲",
+      "kr": "삿즈",
+      "fr": "Sazh",
+      "de": "Sazh",
+      "it": "Sazh"
+    },
+    "sex": "Male",
+    "game": "FFXIII",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020600": 10,
+          "290030300": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020600": 20,
+          "290030300": 10,
+          "290050300": 10,
+          "290040100": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "213000504": {
+    "rarity_min": 4,
+    "rarity_max": 5,
+    "name": {
+      "en": "Hope",
+      "jp": "霍普",
+      "kr": "호프",
+      "fr": "Hope",
+      "de": "Hope",
+      "it": "Hope"
+    },
+    "sex": "Male",
+    "game": "FFXIII",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020300": 25,
+          "290030200": 13,
+          "290050300": 15,
+          "290040300": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "213000603": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Fang",
+      "jp": "牙",
+      "kr": "팡",
+      "fr": "Fang",
+      "de": "Fang",
+      "it": "Fang"
+    },
+    "sex": "Female",
+    "game": "FFXIII",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020000": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020000": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "214000105": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Y'shtola",
+      "jp": "雅・修特拉",
+      "kr": "야슈톨라",
+      "fr": "Y'shtola",
+      "de": "Y'shtola",
+      "it": "Y'shtola"
+    },
+    "sex": "Female",
+    "game": "FFXIV",
+    "is_summonable": false,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "291100100": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "214000203": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Thancred",
+      "jp": "桑克瑞德",
+      "kr": "산크레드",
+      "fr": "Thancred",
+      "de": "Thancred",
+      "it": "Thancred"
+    },
+    "sex": "Male",
+    "game": "FFXIV",
+    "is_summonable": false,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020200": 10,
+          "290030200": 5,
+          "291100300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020200": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "291100300": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "214000304": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Minfilia",
+      "jp": "敏菲利亞",
+      "kr": "민필리아",
+      "fr": "Minfilia",
+      "de": "Minfilia",
+      "it": "Minfilia"
+    },
+    "sex": "Female",
+    "game": "FFXIV",
+    "is_summonable": false,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020400": 25,
+          "290030800": 13,
+          "290050300": 15,
+          "290030700": 8,
+          "291100200": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "291100200": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "214000404": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Yda",
+      "jp": "伊達",
+      "kr": "이다",
+      "fr": "Yda",
+      "de": "Yda",
+      "it": "Yda"
+    },
+    "sex": "Female",
+    "game": "FFXIV",
+    "is_summonable": false,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020100": 25,
+          "290030600": 13,
+          "290050300": 15,
+          "290031000": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060000": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "214000504": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Papalymo",
+      "jp": "帕帕力莫",
+      "kr": "파파리모",
+      "fr": "Papalymo",
+      "de": "Papalymo",
+      "it": "Papalymo"
+    },
+    "sex": "Male",
+    "game": "FFXIV",
+    "is_summonable": false,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020300": 25,
+          "290030700": 13,
+          "290050300": 15,
+          "290030800": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060200": 10,
+          "290060400": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "215000105": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Noctis",
+      "jp": "諾克提斯",
+      "kr": "녹티스",
+      "fr": "Noctis",
+      "de": "Noctis",
+      "it": "Noctis"
+    },
+    "sex": "Male",
+    "game": "FFXV",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060300": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "215001105": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Nyx",
+      "jp": "尼克斯",
+      "kr": "닉스",
+      "fr": "Nyx",
+      "de": "Nyx",
+      "it": "Nyx"
+    },
+    "sex": "Male",
+    "game": "FFXV",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060300": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "215001204": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Glauca",
+      "jp": "格拉烏卡",
+      "kr": "글라우카",
+      "fr": "Glauca",
+      "de": "Glauca",
+      "it": "Glauca"
+    },
+    "sex": "Male",
+    "game": "FFXV",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020600": 25,
+          "290030200": 13,
+          "290050300": 15,
+          "290040200": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060300": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "215001304": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Crowe",
+      "jp": "克羅",
+      "kr": "크로우",
+      "fr": "Crowe",
+      "de": "Crowe",
+      "it": "Crowe"
+    },
+    "sex": "Female",
+    "game": "FFXV",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020100": 25,
+          "290030000": 13,
+          "290050300": 15,
+          "290040200": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "215001403": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Libertus",
+      "jp": "利波特斯",
+      "kr": "리베르트",
+      "fr": "Libertus",
+      "de": "Libertus",
+      "it": "Libertus"
+    },
+    "sex": "Male",
+    "game": "FFXV",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020000": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020000": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290040000": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "253000105": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Ramza",
+      "jp": "拉姆薩",
+      "kr": "람자",
+      "fr": "Ramza",
+      "de": "Ramza",
+      "it": "Ramza"
+    },
+    "sex": "Male",
+    "game": "FFT",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060000": 20,
+          "290060100": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "253000115": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Mercenary Ramza",
+      "jp": "傭兵拉姆薩",
+      "kr": "용병 람자",
+      "fr": "Ramza mercenaire",
+      "de": "Söldner Ramza",
+      "it": "Ramza mercenario"
+    },
+    "sex": "Male",
+    "game": "FFT",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060000": 20,
+          "290060100": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "253000205": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Delita",
+      "jp": "迪利塔",
+      "kr": "디리타",
+      "fr": "Delita",
+      "de": "Delita",
+      "it": "Delita"
+    },
+    "sex": "Male",
+    "game": "FFT",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060000": 20,
+          "290060100": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "253000215": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Knight Delita",
+      "jp": "騎士迪利塔",
+      "kr": "기사 디리타",
+      "fr": "Delita chevalier",
+      "de": "Ritter Delita",
+      "it": "Delita caballero"
+    },
+    "sex": "Male",
+    "game": "FFT",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060000": 20,
+          "290060300": 10,
+          "290060200": 10,
+          "290060400": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "253000304": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Agrias",
+      "jp": "阿格莉亞絲",
+      "kr": "아그리아스",
+      "fr": "Agrias",
+      "de": "Agrias",
+      "it": "Agrias"
+    },
+    "sex": "Female",
+    "game": "FFT",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020000": 25,
+          "290030100": 13,
+          "290050300": 15,
+          "290040100": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060000": 20,
+          "290060300": 10,
+          "290060200": 10,
+          "290060400": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "253000403": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Alma",
+      "jp": "阿魯瑪",
+      "kr": "알마",
+      "fr": "Alma",
+      "de": "Alma",
+      "it": "Alma"
+    },
+    "sex": "Female",
+    "game": "FFT",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020400": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020400": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290040000": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "253000504": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Gaffgarion",
+      "jp": "加夫加利安",
+      "kr": "가프가리온",
+      "fr": "Gaffgarion",
+      "de": "Gaffgarion",
+      "it": "Gaffgarion"
+    },
+    "sex": "Male",
+    "game": "FFT",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020200": 25,
+          "290030000": 13,
+          "290050300": 15,
+          "290040400": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060300": 10,
+          "290060000": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "253000603": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Mustadio",
+      "jp": "姆斯達迪奧",
+      "kr": "무스타디오",
+      "fr": "Mustadio",
+      "de": "Mustadio",
+      "it": "Mustadio"
+    },
+    "sex": "Male",
+    "game": "FFT",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020600": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020600": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040100": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "253000805": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Orlandeau",
+      "jp": "奧爾蘭多",
+      "kr": "올란두",
+      "fr": "Orlandeau",
+      "de": "Orlandeau",
+      "it": "Orlandeau"
+    },
+    "sex": "Male",
+    "game": "FFT",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060000": 20,
+          "290060100": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "253000904": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Meliadoul",
+      "jp": "梅麗亞杜爾",
+      "kr": "멜리아돌",
+      "fr": "Meliadoul",
+      "de": "Meliadoul",
+      "it": "Meliadoul"
+    },
+    "sex": "Female",
+    "game": "FFT",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020100": 25,
+          "290030600": 13,
+          "290050300": 15,
+          "290030500": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "253001103": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Ovelia",
+      "jp": "奧薇莉亞",
+      "kr": "오벨리아",
+      "fr": "Ovelia",
+      "de": "Ovelia",
+      "it": "Ovelia"
+    },
+    "sex": "Female",
+    "game": "FFT",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020700": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020700": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040000": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "253001204": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Orran",
+      "jp": "奧蘭",
+      "kr": "오란",
+      "fr": "Orran",
+      "de": "Orran",
+      "it": "Orran"
+    },
+    "sex": "Male",
+    "game": "FFT",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020700": 25,
+          "290031000": 13,
+          "290050300": 15,
+          "290030800": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060000": 10,
+          "290060300": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "254000105": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Ace",
+      "jp": "艾斯",
+      "kr": "에이스",
+      "fr": "Ace",
+      "de": "Ace",
+      "it": "Ace"
+    },
+    "sex": "Male",
+    "game": "FF TYPE-0",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060300": 10,
+          "290060000": 10,
+          "290060400": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "254000205": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Queen",
+      "jp": "葵因",
+      "kr": "퀸",
+      "fr": "Queen",
+      "de": "Queen",
+      "it": "Queen"
+    },
+    "sex": "Female",
+    "game": "FF TYPE-0",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060000": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "254000304": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Nine",
+      "jp": "奈恩",
+      "kr": "나인",
+      "fr": "Nine",
+      "de": "Nine",
+      "it": "Nine"
+    },
+    "sex": "Male",
+    "game": "FF TYPE-0",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020000": 25,
+          "290030100": 13,
+          "290050300": 15,
+          "290030600": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060000": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "254000403": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Trey",
+      "jp": "托雷",
+      "kr": "트레이",
+      "fr": "Trey",
+      "de": "Trey",
+      "it": "Trey"
+    },
+    "sex": "Male",
+    "game": "FF TYPE-0",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020600": 10,
+          "290030300": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020600": 20,
+          "290030300": 10,
+          "290050300": 10,
+          "290040100": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "254000503": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Cinque",
+      "jp": "莘柯",
+      "kr": "싱크",
+      "fr": "Cinque",
+      "de": "Cinque",
+      "it": "Cinque"
+    },
+    "sex": "Female",
+    "game": "FF TYPE-0",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020100": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "254000603": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Jack",
+      "jp": "傑克",
+      "kr": "잭",
+      "fr": "Jack",
+      "de": "Jack",
+      "it": "Jack"
+    },
+    "sex": "Male",
+    "game": "FF TYPE-0",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020200": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020200": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040400": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "254000704": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Seven",
+      "jp": "瑟溫",
+      "kr": "세븐",
+      "fr": "Seven",
+      "de": "Seven",
+      "it": "Seven"
+    },
+    "sex": "Female",
+    "game": "FF TYPE-0",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020700": 25,
+          "290030000": 13,
+          "290050300": 15,
+          "290040300": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060100": 10,
+          "290060000": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "254000905": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Rem",
+      "jp": "蕾姆",
+      "kr": "렘",
+      "fr": "Rem",
+      "de": "Rem",
+      "it": "Rem"
+    },
+    "sex": "Female",
+    "game": "FF TYPE-0",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "254001003": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Eight",
+      "jp": "艾特",
+      "kr": "에이트",
+      "fr": "Eight",
+      "de": "Eight",
+      "it": "Eight"
+    },
+    "sex": "Male",
+    "game": "FF TYPE-0",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020100": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290040400": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "254001204": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "King",
+      "jp": "金恩",
+      "kr": "킹",
+      "fr": "King",
+      "de": "King",
+      "it": "King"
+    },
+    "sex": "Male",
+    "game": "FF TYPE-0",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020600": 25,
+          "290030300": 13,
+          "290050300": 15,
+          "290040100": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060400": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "254001403": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Sice",
+      "jp": "薩絲",
+      "kr": "사이스",
+      "fr": "Sice",
+      "de": "Sice",
+      "it": "Sice"
+    },
+    "sex": "Female",
+    "game": "FF TYPE-0",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020200": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020200": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "255000104": {
+    "rarity_min": 4,
+    "rarity_max": 5,
+    "name": {
+      "en": "Juggler",
+      "jp": "曲藝士",
+      "kr": "곡예사",
+      "fr": "Cabotin",
+      "de": "Jongleur",
+      "it": "Malabarista"
+    },
+    "sex": "Male",
+    "game": "Crystal Defenders",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020700": 25,
+          "290030000": 13,
+          "290050300": 15,
+          "290040100": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "255000204": {
+    "rarity_min": 4,
+    "rarity_max": 5,
+    "name": {
+      "en": "Thief",
+      "jp": "竊賊",
+      "kr": "시프",
+      "fr": "Voleur",
+      "de": "Dieb",
+      "it": "Ladrón"
+    },
+    "sex": "Male",
+    "game": "Crystal Defenders",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020200": 25,
+          "290030100": 13,
+          "290050300": 15,
+          "290040300": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "255000304": {
+    "rarity_min": 4,
+    "rarity_max": 5,
+    "name": {
+      "en": "Fencer",
+      "jp": "劍士",
+      "kr": "펜서",
+      "fr": "Escrimeuse",
+      "de": "Fechter",
+      "it": "Esgrimista"
+    },
+    "sex": "Female",
+    "game": "Crystal Defenders",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020100": 25,
+          "290030400": 13,
+          "290050300": 15,
+          "290040300": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "301000103": {
+    "rarity_min": 3,
+    "rarity_max": 4,
+    "name": {
+      "en": "Samatha",
+      "jp": "薩瑪莎",
+      "kr": "사마사",
+      "fr": "Samatha",
+      "de": "Samatha",
+      "it": "Samantha"
+    },
+    "sex": "Female",
+    "game": "Terra Battle",
+    "is_summonable": false,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 20,
+          "290050200": 10,
+          "290020500": 8,
+          "290030300": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+      }
+    }
+  },
+  "302000104": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Tilith",
+      "jp": "媞莉絲",
+      "kr": "티리스",
+      "fr": "Tilith",
+      "de": "Tilith",
+      "it": "Tilith"
+    },
+    "sex": "Female",
+    "game": "Brave Frontier",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020400": 25,
+          "290030100": 13,
+          "290050300": 15,
+          "290040000": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "302000204": {
+    "rarity_min": 4,
+    "rarity_max": 5,
+    "name": {
+      "en": "Karl",
+      "jp": "卡爾",
+      "kr": "칼",
+      "fr": "Karl",
+      "de": "Karl",
+      "it": "Karl"
+    },
+    "sex": "Male",
+    "game": "Brave Frontier",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020300": 25,
+          "290030400": 13,
+          "290050300": 15,
+          "290040300": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "302000304": {
+    "rarity_min": 4,
+    "rarity_max": 5,
+    "name": {
+      "en": "Seria",
+      "jp": "榭莉雅",
+      "kr": "세리아",
+      "fr": "Seria",
+      "de": "Seria",
+      "it": "Seria"
+    },
+    "sex": "Female",
+    "game": "Brave Frontier",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020300": 25,
+          "290030400": 13,
+          "290050300": 15,
+          "290040300": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "302000405": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Vargas",
+      "jp": "瓦爾加斯",
+      "kr": "발가스",
+      "fr": "Vargas",
+      "de": "Vargas",
+      "it": "Vargas"
+    },
+    "sex": "Male",
+    "game": "Brave Frontier",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "302000505": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Maxwell",
+      "jp": "麥斯威爾",
+      "kr": "막스웰",
+      "fr": "Maxwell",
+      "de": "Maxwell",
+      "it": "Maxwell"
+    },
+    "sex": "Female",
+    "game": "Brave Frontier",
+    "is_summonable": false,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060100": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "302000605": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Elza",
+      "jp": "艾爾莎",
+      "kr": "엘자",
+      "fr": "Elza",
+      "de": "Elza",
+      "it": "Elza"
+    },
+    "sex": "Female",
+    "game": "Brave Frontier",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "302000705": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "White Knight Noel",
+      "jp": "白騎士諾埃爾",
+      "kr": "백기사 노엘",
+      "fr": "Chevalier blanc Noël",
+      "de": "Weißer Ritter Noel",
+      "it": "Caballero blanco Noel"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060000": 20,
+          "290060300": 10,
+          "290060200": 10,
+          "290060400": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "302000804": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Santa Roselia",
+      "jp": "聖人羅塞莉亞",
+      "kr": "산타 로자리아",
+      "fr": "Mère de l'hiver Rosélia",
+      "de": "Santa Roselia",
+      "it": "Santa Roselia"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020400": 25,
+          "290030800": 13,
+          "290050300": 15,
+          "290030700": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "302000905": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Yun",
+      "jp": "雲",
+      "kr": "윤",
+      "fr": "Yun",
+      "de": "Yun",
+      "it": "Yun"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "302001004": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Ling",
+      "jp": "鈴",
+      "kr": "링",
+      "fr": "Ling",
+      "de": "Ling",
+      "it": "Ling"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020700": 25,
+          "290030000": 13,
+          "290050300": 15,
+          "290040300": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060300": 10,
+          "290060400": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "302001104": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Cupid Artemios",
+      "jp": "愛神阿特米奧",
+      "kr": "큐피드 아르테미오스",
+      "fr": "Artemios-Cupidon",
+      "de": "Amor-Artemios",
+      "it": "Artemios Cupido"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040400": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "302001203": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Cupid Luna",
+      "jp": "愛神露娜",
+      "kr": "큐피드 루나",
+      "fr": "Luna-Cupidon",
+      "de": "Amor-Luna",
+      "it": "Luna Cupido"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 20,
+          "290050200": 10,
+          "290020100": 8,
+          "290030000": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020100": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040200": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "302001305": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Olive",
+      "jp": "奧利芙",
+      "kr": "올리브",
+      "fr": "Olive",
+      "de": "Olive",
+      "it": "Olivia"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060300": 10,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 15
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "302001405": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Fryevia",
+      "jp": "弗雷比亞",
+      "kr": "프레이비아",
+      "fr": "Fryevia",
+      "de": "Fryevia",
+      "it": "Fryevia"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060400": 10,
+          "290060100": 10,
+          "290060000": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "302001504": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Xon",
+      "jp": "索恩",
+      "kr": "지안",
+      "fr": "Xon",
+      "de": "Xon",
+      "it": "Xon"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020200": 25,
+          "290030900": 13,
+          "290050300": 15,
+          "290030600": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "302001603": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Aiden",
+      "jp": "艾迪恩",
+      "kr": "에이단",
+      "fr": "Aiden",
+      "de": "Aiden",
+      "it": "Aiden"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020900": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020900": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040100": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "303000103": {
+    "rarity_min": 3,
+    "rarity_max": 4,
+    "name": {
+      "en": "Adel",
+      "jp": "Adel",
+      "kr": "아델",
+      "fr": "Adel",
+      "de": "Adel",
+      "it": "Adel"
+    },
+    "sex": "Male",
+    "game": "Imperial SaGa",
+    "is_summonable": false,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "291000100": 3,
+          "291000200": 3,
+          "291000300": 3,
+          "291000400": 3,
+          "291000500": 3
+        }
+      },
+      "4": {
+      }
+    }
+  },
+  "304000105": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Randi",
+      "jp": "蘭迪",
+      "kr": "랜디",
+      "fr": "Randy",
+      "de": "Randi",
+      "it": "Randy"
+    },
+    "sex": "Male",
+    "game": "Secret of Mana",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "304000204": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Primm",
+      "jp": "普利姆",
+      "kr": "프림",
+      "fr": "Prim",
+      "de": "Primm",
+      "it": "Prim"
+    },
+    "sex": "Female",
+    "game": "Secret of Mana",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020400": 25,
+          "290030100": 13,
+          "290050300": 15,
+          "290040000": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "304000303": {
+    "rarity_min": 3,
+    "rarity_max": 6,
+    "name": {
+      "en": "Popoi",
+      "jp": "波波伊",
+      "kr": "포포이",
+      "fr": "Popoï",
+      "de": "Popoi",
+      "it": "Popoi"
+    },
+    "sex": "Other",
+    "game": "Secret of Mana",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020300": 10,
+          "290030200": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020300": 20,
+          "290030200": 10,
+          "290050300": 10,
+          "290040300": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060000": 20,
+          "290060300": 10,
+          "290060400": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "309000105": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Julian",
+      "jp": "尤利安",
+      "kr": "유리안",
+      "fr": "Julian",
+      "de": "Julian",
+      "it": "Julián"
+    },
+    "sex": "Male",
+    "game": null,
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060000": 20,
+          "290060100": 10,
+          "290060200": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "309000205": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Katarina",
+      "jp": "卡塔琳娜",
+      "kr": "카타리나",
+      "fr": "Katarina",
+      "de": "Katarina",
+      "it": "Katarina"
+    },
+    "sex": "Female",
+    "game": null,
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "309000304": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Harid",
+      "jp": "哈利德",
+      "kr": "해리드",
+      "fr": "Harid",
+      "de": "Harid",
+      "it": "Harid"
+    },
+    "sex": "Male",
+    "game": null,
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020200": 25,
+          "290030200": 13,
+          "290050300": 15,
+          "290040200": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060100": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "309000403": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Robyn",
+      "jp": "羅賓",
+      "kr": "로빈",
+      "fr": "Robyn",
+      "de": "Robyn",
+      "it": "Robin"
+    },
+    "sex": "Male",
+    "game": null,
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020800": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020800": 20,
+          "290030800": 10,
+          "290050300": 10,
+          "290030700": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "310000105": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "2B",
+      "jp": "2B",
+      "kr": "2B",
+      "fr": "2B",
+      "de": "2B",
+      "it": "2B"
+    },
+    "sex": "Female",
+    "game": "NieR:Automata",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060100": 10,
+          "290060200": 10,
+          "290060000": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "310000204": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "9S",
+      "jp": "9S",
+      "kr": "9S",
+      "fr": "9S",
+      "de": "9S",
+      "it": "9S"
+    },
+    "sex": "Male",
+    "game": "NieR:Automata",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020700": 25,
+          "290030800": 13,
+          "290050300": 15,
+          "290030900": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060100": 10,
+          "290060400": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "310000304": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Adam",
+      "jp": "亞當",
+      "kr": "아담",
+      "fr": "Adam",
+      "de": "Adam",
+      "it": "Adán"
+    },
+    "sex": "Male",
+    "game": "NieR:Automata",
+    "is_summonable": false,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020200": 25,
+          "290031000": 13,
+          "290050300": 15,
+          "290030900": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060000": 10,
+          "290060400": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "310000403": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "21O",
+      "jp": "21O",
+      "kr": "21O",
+      "fr": "21O",
+      "de": "21O",
+      "it": "21O"
+    },
+    "sex": "Female",
+    "game": "NieR:Automata",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 25,
+          "290050200": 15,
+          "290020700": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020700": 20,
+          "290030700": 10,
+          "290050300": 10,
+          "290030800": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "401000104": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Dangerous Ariana",
+      "jp": "危險・亞莉安娜",
+      "kr": "데인저러스 아리아나",
+      "fr": "Dangereuse Ariana",
+      "de": "Gefährliche Ariana",
+      "it": "Ariana peligrosa"
+    },
+    "sex": "Female",
+    "game": "Ariana Grande",
+    "is_summonable": false,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "106301900": 5,
+          "106302000": 5,
+          "106302100": 5,
+          "106302200": 5,
+          "106302300": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "106301900": 10,
+          "106302000": 10,
+          "106302100": 10,
+          "106302200": 10,
+          "106302300": 10
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "401000205": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Demon Rain",
+      "jp": "惡魔雷因",
+      "kr": "악마 레인",
+      "fr": "Rain démoniaque",
+      "de": "Dämonen-Rain",
+      "it": "Rain demoniaco"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060000": 15,
+          "290060300": 8,
+          "290060200": 5,
+          "290060100": 3,
+          "290050500": 3
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "401000305": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Dracu Lasswell",
+      "jp": "吸血鬼拉斯韋爾",
+      "kr": "드라큘라 라스웰",
+      "fr": "Draculasswell",
+      "de": "Dracu-Lasswell",
+      "it": "Draculasswell"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060000": 15,
+          "290060300": 8,
+          "290060200": 5,
+          "290060100": 3,
+          "290050500": 3
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "401000404": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "White Witch Fina",
+      "jp": "白魔女菲娜",
+      "kr": "하얀 마녀 피나",
+      "fr": "Sorcière blanche Fina",
+      "de": "Weiße Hexe Fina",
+      "it": "Fina bruja blanca"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020400": 25,
+          "290030100": 13,
+          "290050300": 15,
+          "290040400": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060000": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "401000503": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Black Cat Lid",
+      "jp": "黑貓里德",
+      "kr": "검은 고양이 리드",
+      "fr": "Chatte noire Lid",
+      "de": "Schwarze Katze Lid",
+      "it": "Lid minina negra"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010200": 20,
+          "290050200": 10,
+          "290020600": 8,
+          "290030000": 3,
+          "290050300": 3
+        }
+      },
+      "4": {
+        "materials": {
+          "290020600": 15,
+          "290030000": 8,
+          "290050300": 5,
+          "290040100": 3,
+          "290050400": 3
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "401000704": {
+    "rarity_min": 4,
+    "rarity_max": 5,
+    "name": {
+      "en": "Swordsman Lasswell",
+      "jp": "劍士拉斯韋爾",
+      "kr": "검사 라스웰",
+      "fr": "Lasswell épéiste",
+      "de": "Schwertkämpfer Lasswell",
+      "it": "Lasswell espadachín"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": false,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020000": 15,
+          "290030100": 8,
+          "290050300": 5,
+          "290040000": 3,
+          "290050400": 3
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "401001105": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Zargabaath",
+      "jp": "查格博斯",
+      "kr": "자르가바스",
+      "fr": "Zargabaath",
+      "de": "Zargabaath",
+      "it": "Zargabaath"
+    },
+    "sex": "Male",
+    "game": "FFXII",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060200": 10,
+          "290060400": 10,
+          "290060300": 10,
+          "290060100": 5,
+          "290050500": 15
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "401001205": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "A2",
+      "jp": "A2",
+      "kr": "A2",
+      "fr": "A2",
+      "de": "A2",
+      "it": "A2"
+    },
+    "sex": "Female",
+    "game": "NieR:Automata",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060300": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "401001304": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Eve",
+      "jp": "夏娃",
+      "kr": "이브",
+      "fr": "Ève",
+      "de": "Eva",
+      "it": "Eva"
+    },
+    "sex": "Male",
+    "game": "NieR:Automata",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020000": 25,
+          "290030500": 13,
+          "290050300": 15,
+          "290030600": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 20,
+          "290060400": 10,
+          "290060200": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "401001705": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Reberta",
+      "jp": "蕾貝爾塔",
+      "kr": "리베르타",
+      "fr": "Réberta",
+      "de": "Reberta",
+      "it": "Reberta"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060200": 10,
+          "290060400": 10,
+          "290060100": 10,
+          "290060300": 5,
+          "290050500": 15
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "401001804": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Zyrus",
+      "jp": "扎拉斯",
+      "kr": "자이러스",
+      "fr": "Zyrus",
+      "de": "Zyrus",
+      "it": "Zyrus"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020300": 25,
+          "290030700": 13,
+          "290050300": 15,
+          "290030800": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060400": 10,
+          "290060200": 10,
+          "290060300": 10,
+          "290060000": 5,
+          "290050500": 15
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "401002304": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Chic Ariana",
+      "jp": "時尚亞莉安娜",
+      "kr": "시크 아리아나",
+      "fr": "Ariana chic",
+      "de": "Schicke Ariana",
+      "it": "Ariana chic"
+    },
+    "sex": "Female",
+    "game": "Ariana Grande",
+    "is_summonable": false,
+    "awakenings": {
+      "4": {
+        "materials": {
+          "1209000835": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "1209000835": 10
+        }
+      },
+      "6": {
+      }
+    }
+  }
+}
