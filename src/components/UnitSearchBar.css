@@ -2,6 +2,7 @@
   /* a certain width */
   width: 500px;
   z-index: 10;
+  position: relative;
 }
 
 .containerOpen {
@@ -25,6 +26,9 @@
 .suggestionsContainer {
   max-height: 550px;
   overflow-y: auto;
+  top: 100%;
+  width: 100%;
+  position: absolute;
 }
 
 .suggestionsContainerOpen {

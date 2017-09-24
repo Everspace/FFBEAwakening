@@ -2,25 +2,8 @@ import React from 'react'
 
 import { connect } from 'react-redux'
 import { Image as UnitImage } from 'components/Unit'
+import { UnitSelector as Dropdown } from 'components/UnitStarSelector'
 import UnitSearchBar from 'components/UnitSearchBar'
-
-let makeOptions = (min, max) => {
-  var collection = []
-  var i = min
-  while (i <= max) {
-    collection.push(
-      <option key={i} value={i}>{i}*</option>
-    )
-    i++
-  }
-  return collection
-}
-
-let Dropdown = ({ min, max, current, onChange }) => {
-  return <select onChange={onChange} value={current}>
-    {makeOptions(min, max)}
-  </select>
-}
 
 class UnitSelectionArea extends React.Component {
   emptyState = {
@@ -91,64 +74,62 @@ class UnitSelectionArea extends React.Component {
       */
 
       content.push(
-        <Dropdown
-          key='rarityFrom'
-          min={this.state.rarityMin}
-          current={this.state.rarityFrom}
-          max={this.state.rarityMax - 1}
-          onChange={e => {
-            let v = Number(e.target.value)
-            this.setState({
-              rarityFrom: v,
-              // If we go higher than the target at the moment,
-              // bump it up accordingly
-              rarityTo: v >= this.state.rarityTo ?
-                  v + 1
-                : this.state.rarityTo
-            })
-          }}
-        />
-      )
-
-      content.push(<span>-to-></span>)
-
-      content.push(
-        <Dropdown
-          key='rarityTo'
-          min={this.state.rarityMin + 1}
-          current={this.state.rarityTo}
-          max={this.state.rarityMax}
-          onChange={e => {
-            let v = Number(e.target.value)
-            this.setState({
-              // If we go lower turn it down accordingly
-              rarityFrom: v <= this.state.rarityFrom ?
-                  v - 1
-                : this.state.rarityFrom,
-              rarityTo: v
-            })
-          }}
-        />
-      )
-
-      content.push(
-        <input type='button'
-          key='submitButton'
-          value='Select'
-          onClick={
-            e => {
-              this.props.dispatch({
-                type: 'ADD_UNIT',
-                id: this.state.unitId,
-                rarityTo: this.state.rarityTo,
-                rarityFrom: this.state.rarityFrom
+        <div
+          key='selectorContinaer'
+          style={{display: 'flex', flexDirection: 'row'}}
+        >
+          <Dropdown
+            key='rarityFrom'
+            id={this.state.unitId}
+            min={this.state.rarityMin}
+            current={this.state.rarityFrom}
+            max={this.state.rarityMax - 1}
+            onChange={option => {
+              this.setState({
+                rarityFrom: option.value,
+                // If we go higher than the target at the moment,
+                // bump it up accordingly
+                rarityTo: option.value >= this.state.rarityTo ?
+                    option.value + 1
+                  : this.state.rarityTo
               })
+            }}
+          />
+          <span style={{margin: 'auto 0'}} key="ahuehuehauehahahaha">→</span>
+          <Dropdown
+            key='rarityTo'
+            id={this.state.unitId}
+            min={this.state.rarityMin + 1}
+            current={this.state.rarityTo}
+            max={this.state.rarityMax}
+            onChange={option => {
+              this.setState({
+                // If we go lower turn it down accordingly
+                rarityFrom: option.value <= this.state.rarityFrom ?
+                    option.value - 1
+                  : this.state.rarityFrom,
+                rarityTo: option.value
+              })
+            }}
+          />
+          <input type='button'
+            key='submitButton'
+            value='Select'
+            onClick={
+              e => {
+                this.props.dispatch({
+                  type: 'ADD_UNIT',
+                  id: this.state.unitId,
+                  rarityTo: this.state.rarityTo,
+                  rarityFrom: this.state.rarityFrom
+                })
 
-              this.reset()
-              this.cleanSearchBar()
+                this.reset()
+                this.cleanSearchBar()
+              }
             }
-          }
-        />
+          />
+        </div>
       )
     }
 
@@ -156,17 +137,6 @@ class UnitSelectionArea extends React.Component {
       <div className='UnitSelectionArea' >
         <div>
           {content}
-        </div>
-        <div>
-          {
-            this.state.unitId !== null ?
-            [
-              <UnitImage id={this.state.unitId} rarity={this.state.rarityFrom} />,
-              <span>-to-></span>,
-              <UnitImage id={this.state.unitId} rarity={this.state.rarityTo} />
-            ]
-            : null
-          }
         </div>
       </div>
     )
