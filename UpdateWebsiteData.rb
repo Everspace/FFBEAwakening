@@ -57,6 +57,7 @@ mine("units")
   .map do |key, values|
     values["name"] = hash_data_strings values["names"]
     values["awakenings"] = hash_awakenings values
+    values["growthPatterns"] = hash_growth_patterns values
     [key, values]
   end
   .keep_if do |key, values|
@@ -76,7 +77,9 @@ mine("units")
       "sex",
       "game",
       "is_summonable",
-      "awakenings" #custom
+      #custom things
+      "growthPatterns",
+      "awakenings"
     ], value
     memory
   end

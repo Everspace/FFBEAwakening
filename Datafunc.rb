@@ -62,6 +62,23 @@ def hash_awakenings(obj)
   if awakenings.any?(&:nil?) then nil else awakenings.to_h end
 end
 
+def hash_growth_patterns(obj)
+  entries = obj["entries"].to_a
+  min, max = obj["rarity_min"], obj["rarity_max"]
+
+  return (min..max).to_a.each_with_object({}) do |level, patterns|
+    index = level - min
+    key, value = entries[index]
+    raise "rarity mismatch?!" unless value["rarity"] == level
+
+
+    #To cooralate to the wiki's explanation of https://exvius.gamepedia.com/Unit_Experience_Chart
+    #have to divide by 5 because the dump has it listed as 5/10/15 for pattern 1/2/3
+    divisorMagic = 5
+    patterns[level] = value["growth_pattern"] / divisorMagic
+  end
+end
+
 def download_file(url, dest_name)
   uri = URI(url)
   opts = {
