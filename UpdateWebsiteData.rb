@@ -15,10 +15,12 @@ $data_dir = File.expand_path  $base_path, "DataMine"
 # FileUtils.rmdir $build_dir
 # FileUtils.mkdir $build_dir
 
+$pretty = !ARGV.include?("--ugly")
+
 puts "git submodule update --remote"
 result = `git submodule update --remote`
-if result.empty? and not ARGV.include? "--ignore-git-update"
-  puts "DataMine is up todata, exiting"
+if result.empty? and not ARGV.include? "--force"
+  puts "DataMine is up-to-date, exiting"
   exit
 end
 puts result

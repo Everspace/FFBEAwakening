@@ -13,6 +13,13 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -67,6 +74,10 @@
     "sex": "Male",
     "game": null,
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -95,6 +106,13 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 6
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -149,6 +167,10 @@
     "sex": "Male",
     "game": null,
     "is_summonable": false,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -177,6 +199,13 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2,
+      "4": 2,
+      "5": 2,
+      "6": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -231,6 +260,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -259,6 +292,11 @@
     "sex": "Female",
     "game": null,
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -296,6 +334,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "3": 2,
+      "4": 2,
+      "5": 2
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -333,6 +376,11 @@
     "sex": "Male",
     "game": null,
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -370,6 +418,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "3": 2,
+      "4": 2,
+      "5": 2
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -407,6 +460,11 @@
     "sex": "Female",
     "game": null,
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -444,6 +502,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "3": 2,
+      "4": 2,
+      "5": 2
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -481,6 +544,11 @@
     "sex": "Female",
     "game": null,
     "is_summonable": false,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -518,6 +586,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "3": 2,
+      "4": 2,
+      "5": 2
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -555,6 +628,11 @@
     "sex": "Male",
     "game": null,
     "is_summonable": false,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -592,6 +670,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "1": 1,
+      "2": 1
+    },
     "awakenings": {
       "1": {
         "materials": {
@@ -618,6 +700,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "1": 1,
+      "2": 1
+    },
     "awakenings": {
       "1": {
         "materials": {
@@ -644,6 +730,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "1": 1,
+      "2": 1
+    },
     "awakenings": {
       "1": {
         "materials": {
@@ -670,6 +760,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "1": 1,
+      "2": 1
+    },
     "awakenings": {
       "1": {
         "materials": {
@@ -696,6 +790,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "1": 1,
+      "2": 1
+    },
     "awakenings": {
       "1": {
         "materials": {
@@ -722,6 +820,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "1": 1,
+      "2": 1
+    },
     "awakenings": {
       "1": {
         "materials": {
@@ -748,6 +850,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "1": 1,
+      "2": 1
+    },
     "awakenings": {
       "1": {
         "materials": {
@@ -774,6 +880,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "1": 1,
+      "2": 1
+    },
     "awakenings": {
       "1": {
         "materials": {
@@ -800,6 +910,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -827,6 +941,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -854,6 +972,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -881,6 +1003,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -908,6 +1034,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -936,6 +1066,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -964,6 +1098,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -992,6 +1130,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -1020,6 +1162,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -1057,6 +1204,12 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -1103,6 +1256,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -1140,6 +1298,12 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -1186,6 +1350,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "1": 1,
+      "2": 1
+    },
     "awakenings": {
       "1": {
         "materials": {
@@ -1212,6 +1380,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -1239,6 +1411,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -1266,6 +1442,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -1293,6 +1473,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -1319,6 +1503,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -1346,6 +1534,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -1373,6 +1565,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -1401,6 +1597,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -1437,6 +1638,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -1474,6 +1680,12 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -1520,6 +1732,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -1557,6 +1774,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -1594,6 +1816,12 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -1640,6 +1868,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -1677,6 +1910,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -1714,6 +1952,12 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -1760,6 +2004,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -1797,6 +2046,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -1834,6 +2088,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -1871,6 +2130,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -1908,6 +2172,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -1945,6 +2214,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -1982,6 +2256,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -2019,6 +2298,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -2056,6 +2340,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -2093,6 +2382,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -2121,6 +2414,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -2149,6 +2446,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -2186,6 +2488,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -2214,6 +2520,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -2251,6 +2562,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -2288,6 +2604,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -2325,6 +2646,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -2362,6 +2688,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -2399,6 +2730,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -2436,6 +2772,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -2464,6 +2804,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -2501,6 +2846,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -2538,6 +2888,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -2575,6 +2930,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -2603,6 +2962,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -2640,6 +3004,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -2677,6 +3046,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -2705,6 +3078,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -2742,6 +3120,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -2770,6 +3152,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -2807,6 +3194,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -2844,6 +3236,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -2872,6 +3268,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -2909,6 +3310,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -2937,6 +3342,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -2974,6 +3384,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -3002,6 +3416,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -3039,6 +3458,11 @@
     "sex": "Other",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -3076,6 +3500,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -3113,6 +3542,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -3150,6 +3584,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -3178,6 +3616,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -3202,6 +3644,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -3239,6 +3686,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -3276,6 +3728,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -3313,6 +3770,11 @@
     "sex": "Male",
     "game": "FFI",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -3350,6 +3812,12 @@
     "sex": "Male",
     "game": "FFI",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -3396,6 +3864,10 @@
     "sex": "Female",
     "game": "FFI",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -3423,6 +3895,12 @@
     "sex": "Male",
     "game": "FFII",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -3469,6 +3947,11 @@
     "sex": "Female",
     "game": "FFII",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -3506,6 +3989,11 @@
     "sex": "Male",
     "game": "FFII",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -3543,6 +4031,10 @@
     "sex": "Male",
     "game": "FFII",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -3571,6 +4063,10 @@
     "sex": "Male",
     "game": "FFII",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -3599,6 +4095,10 @@
     "sex": "Male",
     "game": "FFII",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -3625,6 +4125,10 @@
     "sex": "Male",
     "game": "FFIII",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -3653,6 +4157,10 @@
     "sex": "Male",
     "game": "FFIII",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -3681,6 +4189,11 @@
     "sex": "Male",
     "game": "FFIII",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -3718,6 +4231,11 @@
     "sex": "Female",
     "game": "FFIII",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -3755,6 +4273,11 @@
     "sex": "Male",
     "game": "FFIII",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -3792,6 +4315,11 @@
     "sex": "Male",
     "game": "FFIII",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -3829,6 +4357,12 @@
     "sex": "Female",
     "game": "FFIII",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -3875,6 +4409,11 @@
     "sex": "Female",
     "game": "FFIII",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -3912,6 +4451,11 @@
     "sex": "Female",
     "game": "FFIII",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -3949,6 +4493,12 @@
     "sex": "Male",
     "game": "FFIV",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -3995,6 +4545,10 @@
     "sex": "Male",
     "game": "FFIV",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -4023,6 +4577,11 @@
     "sex": "Male",
     "game": "FFIV",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4060,6 +4619,10 @@
     "sex": "Female",
     "game": "FFIV",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -4088,6 +4651,11 @@
     "sex": "Female",
     "game": "FFIV",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4125,6 +4693,11 @@
     "sex": "Male",
     "game": "FFIV",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4162,6 +4735,11 @@
     "sex": "Male",
     "game": "FFIV",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4199,6 +4777,10 @@
     "sex": "Male",
     "game": "FFIV",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -4226,6 +4808,11 @@
     "sex": "Male",
     "game": "FFIV",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4263,6 +4850,12 @@
     "sex": "Male",
     "game": "FFV",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4309,6 +4902,11 @@
     "sex": "Female",
     "game": "FFV",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4346,6 +4944,11 @@
     "sex": "Male",
     "game": "FFV",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4383,6 +4986,11 @@
     "sex": "Female",
     "game": "FFV",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4420,6 +5028,11 @@
     "sex": "Female",
     "game": "FFV",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4457,6 +5070,12 @@
     "sex": "Male",
     "game": "FFV",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4503,6 +5122,10 @@
     "sex": "Male",
     "game": "FFV",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -4531,6 +5154,12 @@
     "sex": "Female",
     "game": "FFVI",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4577,6 +5206,10 @@
     "sex": "Female",
     "game": "FFVI",
     "is_summonable": false,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4605,6 +5238,10 @@
     "sex": "Female",
     "game": "FFVI",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -4633,6 +5270,11 @@
     "sex": "Male",
     "game": "FFVI",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4670,6 +5312,10 @@
     "sex": "Male",
     "game": "FFVI",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4698,6 +5344,10 @@
     "sex": "Male",
     "game": "FFVI",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4726,6 +5376,10 @@
     "sex": "Male",
     "game": "FFVI",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4754,6 +5408,10 @@
     "sex": "Male",
     "game": "FFVI",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4782,6 +5440,11 @@
     "sex": "Female",
     "game": "FFVI",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4819,6 +5482,11 @@
     "sex": "Male",
     "game": "FFVI",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -4856,6 +5524,11 @@
     "sex": "Male",
     "game": "FFVI",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4893,6 +5566,10 @@
     "sex": "Male",
     "game": "FFVI",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -4920,6 +5597,10 @@
     "sex": "Male",
     "game": "FFVI",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -4947,6 +5628,12 @@
     "sex": "Male",
     "game": "FFVI",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -4993,6 +5680,11 @@
     "sex": "Male",
     "game": "FFVI",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -5030,6 +5722,11 @@
     "sex": "Male",
     "game": "FFIX",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -5067,6 +5764,10 @@
     "sex": "Male",
     "game": "FFIX",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -5095,6 +5796,10 @@
     "sex": "Female",
     "game": "FFIX",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -5123,6 +5828,11 @@
     "sex": "Female",
     "game": "FFIX",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -5160,6 +5870,11 @@
     "sex": "Male",
     "game": "FFIX",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -5197,6 +5912,10 @@
     "sex": "Female",
     "game": "FFIX",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -5225,6 +5944,11 @@
     "sex": "Male",
     "game": "FFIX",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -5262,6 +5986,10 @@
     "sex": "Male",
     "game": "FFX",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -5290,6 +6018,11 @@
     "sex": "Male",
     "game": "FFX",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -5327,6 +6060,11 @@
     "sex": "Female",
     "game": "FFX",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -5364,6 +6102,11 @@
     "sex": "Female",
     "game": "FFXI",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -5401,6 +6144,11 @@
     "sex": "Male",
     "game": "FFXI",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -5438,6 +6186,11 @@
     "sex": "Female",
     "game": "FFXI",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -5475,6 +6228,10 @@
     "sex": "Female",
     "game": "FFXI",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -5503,6 +6260,12 @@
     "sex": "Male",
     "game": "FFXII",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -5549,6 +6312,11 @@
     "sex": "Female",
     "game": "FFXII",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -5586,6 +6354,11 @@
     "sex": "Female",
     "game": "FFXII",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -5623,6 +6396,10 @@
     "sex": "Male",
     "game": "FFXII",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -5651,6 +6428,10 @@
     "sex": "Female",
     "game": "FFXII",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -5679,6 +6460,10 @@
     "sex": "Male",
     "game": "FFXII",
     "is_summonable": false,
+    "growthPatterns": {
+      "2": 2,
+      "3": 2
+    },
     "awakenings": {
       "2": {
         "materials": {
@@ -5706,6 +6491,11 @@
     "sex": "Male",
     "game": "FFXII",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -5743,6 +6533,10 @@
     "sex": "Female",
     "game": "FFXIII",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -5771,6 +6565,11 @@
     "sex": "Male",
     "game": "FFXIII",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -5808,6 +6607,10 @@
     "sex": "Female",
     "game": "FFXIII",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -5836,6 +6639,11 @@
     "sex": "Male",
     "game": "FFXIII",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -5873,6 +6681,10 @@
     "sex": "Male",
     "game": "FFXIII",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -5901,6 +6713,11 @@
     "sex": "Female",
     "game": "FFXIII",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -5938,6 +6755,10 @@
     "sex": "Female",
     "game": "FFXIV",
     "is_summonable": false,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -5966,6 +6787,11 @@
     "sex": "Male",
     "game": "FFXIV",
     "is_summonable": false,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -6003,6 +6829,11 @@
     "sex": "Female",
     "game": "FFXIV",
     "is_summonable": false,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -6040,6 +6871,11 @@
     "sex": "Female",
     "game": "FFXIV",
     "is_summonable": false,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -6077,6 +6913,11 @@
     "sex": "Male",
     "game": "FFXIV",
     "is_summonable": false,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -6114,6 +6955,10 @@
     "sex": "Male",
     "game": "FFXV",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -6142,6 +6987,10 @@
     "sex": "Male",
     "game": "FFXV",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -6170,6 +7019,11 @@
     "sex": "Male",
     "game": "FFXV",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -6207,6 +7061,11 @@
     "sex": "Female",
     "game": "FFXV",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -6244,6 +7103,11 @@
     "sex": "Male",
     "game": "FFXV",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -6281,6 +7145,10 @@
     "sex": "Male",
     "game": "FFT",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -6309,6 +7177,10 @@
     "sex": "Male",
     "game": "FFT",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -6337,6 +7209,10 @@
     "sex": "Male",
     "game": "FFT",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -6365,6 +7241,10 @@
     "sex": "Male",
     "game": "FFT",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -6393,6 +7273,11 @@
     "sex": "Female",
     "game": "FFT",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -6430,6 +7315,11 @@
     "sex": "Female",
     "game": "FFT",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -6467,6 +7357,11 @@
     "sex": "Male",
     "game": "FFT",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -6504,6 +7399,11 @@
     "sex": "Male",
     "game": "FFT",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -6541,6 +7441,10 @@
     "sex": "Male",
     "game": "FFT",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -6569,6 +7473,11 @@
     "sex": "Female",
     "game": "FFT",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -6606,6 +7515,11 @@
     "sex": "Female",
     "game": "FFT",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -6643,6 +7557,11 @@
     "sex": "Male",
     "game": "FFT",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -6680,6 +7599,10 @@
     "sex": "Male",
     "game": "FF TYPE-0",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -6708,6 +7631,10 @@
     "sex": "Female",
     "game": "FF TYPE-0",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -6736,6 +7663,11 @@
     "sex": "Male",
     "game": "FF TYPE-0",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -6773,6 +7705,11 @@
     "sex": "Male",
     "game": "FF TYPE-0",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -6810,6 +7747,11 @@
     "sex": "Female",
     "game": "FF TYPE-0",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -6847,6 +7789,11 @@
     "sex": "Male",
     "game": "FF TYPE-0",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -6884,6 +7831,11 @@
     "sex": "Female",
     "game": "FF TYPE-0",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -6921,6 +7873,10 @@
     "sex": "Female",
     "game": "FF TYPE-0",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -6949,6 +7905,11 @@
     "sex": "Male",
     "game": "FF TYPE-0",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -6986,6 +7947,11 @@
     "sex": "Male",
     "game": "FF TYPE-0",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -7023,6 +7989,11 @@
     "sex": "Female",
     "game": "FF TYPE-0",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -7060,6 +8031,10 @@
     "sex": "Male",
     "game": "Crystal Defenders",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -7088,6 +8063,10 @@
     "sex": "Male",
     "game": "Crystal Defenders",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -7116,6 +8095,10 @@
     "sex": "Female",
     "game": "Crystal Defenders",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -7144,6 +8127,10 @@
     "sex": "Female",
     "game": "Terra Battle",
     "is_summonable": false,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -7172,6 +8159,11 @@
     "sex": "Female",
     "game": "Brave Frontier",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -7209,6 +8201,10 @@
     "sex": "Male",
     "game": "Brave Frontier",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -7237,6 +8233,10 @@
     "sex": "Female",
     "game": "Brave Frontier",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -7265,6 +8265,10 @@
     "sex": "Male",
     "game": "Brave Frontier",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -7293,6 +8297,10 @@
     "sex": "Female",
     "game": "Brave Frontier",
     "is_summonable": false,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -7321,6 +8329,10 @@
     "sex": "Female",
     "game": "Brave Frontier",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -7349,6 +8361,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -7377,6 +8393,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -7414,6 +8435,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -7442,6 +8467,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -7479,6 +8509,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -7516,6 +8551,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -7553,6 +8593,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -7581,6 +8625,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -7609,6 +8657,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -7646,6 +8699,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -7683,6 +8741,10 @@
     "sex": "Male",
     "game": "Imperial SaGa",
     "is_summonable": false,
+    "growthPatterns": {
+      "3": 3,
+      "4": 3
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -7711,6 +8773,10 @@
     "sex": "Male",
     "game": "Secret of Mana",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -7739,6 +8805,11 @@
     "sex": "Female",
     "game": "Secret of Mana",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -7776,6 +8847,12 @@
     "sex": "Other",
     "game": "Secret of Mana",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4,
+      "6": 6
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -7822,6 +8899,10 @@
     "sex": "Male",
     "game": null,
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -7850,6 +8931,10 @@
     "sex": "Female",
     "game": null,
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -7878,6 +8963,11 @@
     "sex": "Male",
     "game": null,
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -7915,6 +9005,11 @@
     "sex": "Male",
     "game": null,
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -7952,6 +9047,10 @@
     "sex": "Female",
     "game": "NieR:Automata",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -7980,6 +9079,11 @@
     "sex": "Male",
     "game": "NieR:Automata",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -8017,6 +9121,11 @@
     "sex": "Male",
     "game": "NieR:Automata",
     "is_summonable": false,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -8054,6 +9163,11 @@
     "sex": "Female",
     "game": "NieR:Automata",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -8091,6 +9205,11 @@
     "sex": "Female",
     "game": "Ariana Grande",
     "is_summonable": false,
+    "growthPatterns": {
+      "4": 2,
+      "5": 2,
+      "6": 2
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -8128,6 +9247,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 2,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -8156,6 +9279,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 2,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -8184,6 +9311,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 2,
+      "5": 2,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -8221,6 +9353,11 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "3": 2,
+      "4": 2,
+      "5": 4
+    },
     "awakenings": {
       "3": {
         "materials": {
@@ -8258,6 +9395,10 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": false,
+    "growthPatterns": {
+      "4": 2,
+      "5": 4
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -8286,6 +9427,10 @@
     "sex": "Male",
     "game": "FFXII",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -8314,6 +9459,10 @@
     "sex": "Female",
     "game": "NieR:Automata",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -8342,6 +9491,11 @@
     "sex": "Male",
     "game": "NieR:Automata",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -8379,6 +9533,10 @@
     "sex": "Female",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "5": {
         "materials": {
@@ -8407,6 +9565,11 @@
     "sex": "Male",
     "game": "FFBE",
     "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
     "awakenings": {
       "4": {
         "materials": {
@@ -8444,6 +9607,11 @@
     "sex": "Female",
     "game": "Ariana Grande",
     "is_summonable": false,
+    "growthPatterns": {
+      "4": 2,
+      "5": 2,
+      "6": 2
+    },
     "awakenings": {
       "4": {
         "materials": {

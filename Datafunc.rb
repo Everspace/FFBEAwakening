@@ -12,7 +12,11 @@ end
 def bury(name, stuff)
   file_path = File.expand_path "#{name}.json", $build_dir
   File.open(file_path, "w") do |file|
-    file.puts JSON.pretty_generate(stuff)
+    if $pretty
+      file.puts JSON.pretty_generate(stuff)
+    else
+      file.puts JSON.generate(stuff)
+    end
   end
 end
 
