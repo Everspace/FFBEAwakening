@@ -28,6 +28,16 @@ puts "done"
 
 $config = YAML.load_file "UpdateWebsiteDataConfig.yaml"
 
+#build id -> category list for $config["items"]
+#$config["items"]["itemToCategory"]
+itemToCategory = {}
+$config["items"]["category"].each do |category, items|
+  items.each do |itemID|
+    itemToCategory[itemID] = category
+  end
+end
+$config["items"]["itemToCategory"] = itemToCategory;
+
 #CondenseItems
 mine("items")
   .keep_if do |key, values|
@@ -35,11 +45,16 @@ mine("items")
   end
   .map do |key, values|
     values["name"] = hash_data_strings values["strings"]["names"]
+    values["awakeningType"] = $config["items"]["itemToCategory"][key]
     [key, values]
   end
   .inject({}) do |memory, kv|
     id, data = kv
-    memory[id] = filterify ["name"], data
+    memory[id] = filterify [
+      "name",
+      #custom things
+      "awakeningType"
+      ], data
     memory
   end
   .tap do |blob|

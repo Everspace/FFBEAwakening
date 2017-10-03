@@ -1,4 +1,53 @@
 items:
   include:
-  - "106301800"  # "Musical Note" for Chic Arianna
+  - "106301800"  # Musical Note for Chic Arianna
   - "1209000826" # Shard of Kelsus for... Kelsus
+
+  category:
+    #Others will just end up as null
+
+    Crystal:
+    - "290050300" # Sacred Crystal
+    - "290050400" # Holy Crystal
+    - "290050500" # Divine Crystal
+
+    6star:
+    - "290060000" # Fairies' Writ
+    - "290060100" # Rainbow Bloom
+    - "290060200" # Calamity Gem
+    - "290060300" # Prismatic Horn
+    - "290060400" # Calamity Writ
+
+    Standard:
+    - "290010000" # Beast Meat
+    - "290010100" # Pearl of Wisdom
+    - "290010200" # Allure Powder
+    - "290020000" # Litrock
+    - "290020100" # Seed of Life
+    - "290020200" # Crimson Tear
+    - "290020300" # Mystic Ore
+    - "290020400" # Aqua Pearl
+    - "290020500" # Luminous Horn
+    - "290020600" # Quality Parts
+    - "290020700" # Rainbow Needle
+    - "290020800" # Golden Egg
+    - "290020900" # Book of Ruin
+    - "290030000" # Earth's Core
+    - "290030100" # Heaven's Ash
+    - "290030200" # Deepsea Bloom
+    - "290030300" # Scripture of Time
+    - "290030400" # Farplane Dew
+    - "290030500" # Hard Rock
+    - "290030600" # Fury Seed
+    - "290030700" # Wicked Drop
+    - "290030800" # Brilliant Ray
+    - "290030900" # Lucky Seedling
+    - "290031000" # Bizarre Box
+    - "290040000" # Spiritsand
+    - "290040100" # God's Reliquary
+    - "290040200" # Dragon Heart
+    - "290040300" # Esper's Tear
+    - "290040400" # Talmonite of Life
+    - "290050100" # Esper Shard
+    - "290050200" # Esper Cryst
+
