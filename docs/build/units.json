@@ -1371,7 +1371,7 @@
     "rarity_max": 3,
     "name": {
       "en": "Paula",
-      "jp": "薩拉伊",
+      "jp": "波拉",
       "kr": "폴라",
       "fr": "Paula",
       "de": "Paula",
@@ -4000,7 +4000,7 @@
   },
   "100010303": {
     "rarity_min": 3,
-    "rarity_max": 6,
+    "rarity_max": 5,
     "name": {
       "en": "Yuri",
       "jp": "百合",
@@ -4015,8 +4015,7 @@
     "growthPatterns": {
       "3": 4,
       "4": 4,
-      "5": 4,
-      "6": 6
+      "5": 4
     },
     "awakenings": {
       "3": {
@@ -4038,15 +4037,6 @@
         }
       },
       "5": {
-        "materials": {
-          "290060400": 20,
-          "290060200": 10,
-          "290060100": 10,
-          "290060300": 5,
-          "290050500": 5
-        }
-      },
-      "6": {
       }
     }
   },
@@ -8667,7 +8657,7 @@
     "name": {
       "en": "Libertus",
       "jp": "利波特斯",
-      "kr": "리베르트",
+      "kr": "리베르투스",
       "fr": "Libertus",
       "de": "Libertus",
       "it": "Libertus"
@@ -10457,6 +10447,270 @@
       }
     }
   },
+  "306000105": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Dragonlord",
+      "jp": null,
+      "kr": null,
+      "fr": null,
+      "de": null,
+      "it": null
+    },
+    "sex": "Other",
+    "game": null,
+    "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060200": 10,
+          "290060300": 10,
+          "290060000": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "306000204": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Orochi",
+      "jp": null,
+      "kr": null,
+      "fr": null,
+      "de": null,
+      "it": null
+    },
+    "sex": "Other",
+    "game": null,
+    "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020900": 20,
+          "290030400": 10,
+          "290050300": 10,
+          "290040400": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060200": 20,
+          "290060400": 10,
+          "290060100": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "306000303": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Robbin' 'Ood",
+      "jp": null,
+      "kr": null,
+      "fr": null,
+      "de": null,
+      "it": null
+    },
+    "sex": "Male",
+    "game": null,
+    "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020200": 10,
+          "290030000": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020200": 20,
+          "290030000": 10,
+          "290050300": 10,
+          "290040400": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "306000404": {
+    "rarity_min": 4,
+    "rarity_max": 5,
+    "name": {
+      "en": "Killing Machine",
+      "jp": null,
+      "kr": null,
+      "fr": null,
+      "de": null,
+      "it": null
+    },
+    "sex": "Other",
+    "game": null,
+    "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4
+    },
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020200": 25,
+          "290030200": 13,
+          "290050300": 15,
+          "290040200": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "306000503": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Golem",
+      "jp": null,
+      "kr": null,
+      "fr": null,
+      "de": null,
+      "it": null
+    },
+    "sex": "Other",
+    "game": null,
+    "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020000": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020000": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290040000": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "306000603": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Slime",
+      "jp": null,
+      "kr": null,
+      "fr": null,
+      "de": null,
+      "it": null
+    },
+    "sex": "Other",
+    "game": null,
+    "is_summonable": false,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010100": 25,
+          "290050200": 15,
+          "290020400": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020400": 20,
+          "290030800": 10,
+          "290050300": 10,
+          "290030700": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "306000804": {
+    "rarity_min": 4,
+    "rarity_max": 5,
+    "name": {
+      "en": "Liquid Metal Slime",
+      "jp": null,
+      "kr": null,
+      "fr": null,
+      "de": null,
+      "it": null
+    },
+    "sex": "Other",
+    "game": null,
+    "is_summonable": true,
+    "growthPatterns": {
+      "4": 4,
+      "5": 4
+    },
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020300": 25,
+          "290030200": 13,
+          "290050300": 15,
+          "290040300": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+      }
+    }
+  },
   "309000105": {
     "rarity_min": 5,
     "rarity_max": 6,
@@ -10775,7 +11029,7 @@
       "it": "Héroe"
     },
     "sex": "Male",
-    "game": null,
+    "game": "FINAL FANTASY ADVENTURE",
     "is_summonable": false,
     "growthPatterns": {
       "5": 6,
@@ -10807,7 +11061,7 @@
       "it": "Lise"
     },
     "sex": "Female",
-    "game": null,
+    "game": "Seiken Densetsu 3",
     "is_summonable": true,
     "growthPatterns": {
       "5": 6,
@@ -10839,7 +11093,7 @@
       "it": "Hawk"
     },
     "sex": "Male",
-    "game": null,
+    "game": "Seiken Densetsu 3",
     "is_summonable": true,
     "growthPatterns": {
       "5": 6,
@@ -10871,7 +11125,7 @@
       "it": "Kevin"
     },
     "sex": "Male",
-    "game": null,
+    "game": "Seiken Densetsu 3",
     "is_summonable": true,
     "growthPatterns": {
       "5": 6,
@@ -10903,7 +11157,7 @@
       "it": "Charlotte"
     },
     "sex": "Female",
-    "game": null,
+    "game": "Seiken Densetsu 3",
     "is_summonable": true,
     "growthPatterns": {
       "4": 6,
@@ -11083,7 +11337,7 @@
   },
   "401000503": {
     "rarity_min": 3,
-    "rarity_max": 5,
+    "rarity_max": 6,
     "name": {
       "en": "Black Cat Lid",
       "jp": "黑貓里德",
@@ -11098,7 +11352,8 @@
     "growthPatterns": {
       "3": 2,
       "4": 2,
-      "5": 4
+      "5": 4,
+      "6": 6
     },
     "awakenings": {
       "3": {
@@ -11120,6 +11375,15 @@
         }
       },
       "5": {
+        "materials": {
+          "290060200": 10,
+          "290060400": 10,
+          "290060300": 10,
+          "290060100": 5,
+          "290050500": 15
+        }
+      },
+      "6": {
       }
     }
   },
@@ -11148,6 +11412,70 @@
           "290030100": 8,
           "290050300": 5,
           "290040000": 3,
+          "290050400": 3
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "401000804": {
+    "rarity_min": 4,
+    "rarity_max": 5,
+    "name": {
+      "en": "Cheerleader Fina",
+      "jp": "拉拉隊菲娜",
+      "kr": "치어리더 피나",
+      "fr": "Fina pom-pom girl",
+      "de": "Cheerleader Fina",
+      "it": "Fina animadora"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": false,
+    "growthPatterns": {
+      "4": 2,
+      "5": 4
+    },
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020400": 15,
+          "290030100": 8,
+          "290050300": 5,
+          "290040400": 3,
+          "290050400": 3
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "401000904": {
+    "rarity_min": 4,
+    "rarity_max": 5,
+    "name": {
+      "en": "Maiden Sakura",
+      "jp": "少女櫻",
+      "kr": "작은 아씨 사쿠라",
+      "fr": "Sakura jeune femme",
+      "de": "Maid Sakura",
+      "it": "Sakura doncella"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": false,
+    "growthPatterns": {
+      "4": 2,
+      "5": 4
+    },
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020300": 15,
+          "290030300": 8,
+          "290050300": 5,
+          "290040300": 3,
           "290050400": 3
         }
       },
@@ -11261,6 +11589,122 @@
       }
     }
   },
+  "401001405": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Barbariccia",
+      "jp": "巴爾巴莉希亞",
+      "kr": "발바리시아",
+      "fr": "Barbariccia",
+      "de": "Barbarizia",
+      "it": "Barbariccia"
+    },
+    "sex": "Female",
+    "game": "FFIV",
+    "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060400": 10,
+          "290060200": 10,
+          "290060300": 10,
+          "290060000": 5,
+          "290050500": 15
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "401001504": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Rubicante",
+      "jp": "盧比坎特",
+      "kr": "루비칸테",
+      "fr": "Rubicante",
+      "de": "Rubicante",
+      "it": "Rubicanti"
+    },
+    "sex": "Male",
+    "game": "FFIV",
+    "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020300": 25,
+          "290030200": 13,
+          "290050300": 15,
+          "290040300": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060200": 10,
+          "290060000": 10,
+          "290060400": 10,
+          "290060300": 5,
+          "290050500": 15
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "401001604": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Cagnazzo",
+      "jp": "凱納槽",
+      "kr": "카이나초",
+      "fr": "Cagnazzo",
+      "de": "Cagnazzo",
+      "it": "Cagnazzo"
+    },
+    "sex": "Male",
+    "game": "FFIV",
+    "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020400": 25,
+          "290030800": 13,
+          "290050300": 15,
+          "290030500": 8,
+          "290050400": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060000": 10,
+          "290060100": 10,
+          "290060300": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
   "401001705": {
     "rarity_min": 5,
     "rarity_max": 6,
@@ -11335,6 +11779,164 @@
       }
     }
   },
+  "401001903": {
+    "rarity_min": 3,
+    "rarity_max": 5,
+    "name": {
+      "en": "Scarmiglione",
+      "jp": "斯卡米留尼",
+      "kr": "스컬밀리오네",
+      "fr": "Scarmiglione",
+      "de": "Scarmiglione",
+      "it": "Scarmiglione"
+    },
+    "sex": "Male",
+    "game": "FFIV",
+    "is_summonable": true,
+    "growthPatterns": {
+      "3": 4,
+      "4": 4,
+      "5": 4
+    },
+    "awakenings": {
+      "3": {
+        "materials": {
+          "290010000": 25,
+          "290050200": 15,
+          "290020000": 10,
+          "290030100": 5,
+          "290050300": 5
+        }
+      },
+      "4": {
+        "materials": {
+          "290020000": 20,
+          "290030100": 10,
+          "290050300": 10,
+          "290040000": 5,
+          "290050400": 5
+        }
+      },
+      "5": {
+      }
+    }
+  },
+  "401002005": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Grim Lord Sakura",
+      "jp": "冷血貴族櫻",
+      "kr": "사신 사쿠라",
+      "fr": "Sakura, seigneur sombre",
+      "de": "Grimmige Herrin Sakura",
+      "it": "Sakura la parca"
+    },
+    "sex": "Female",
+    "game": "FFBE",
+    "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060100": 10,
+          "290060300": 10,
+          "290060000": 10,
+          "290060400": 5,
+          "290050500": 15
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "401002104": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Illusionist Nichol",
+      "jp": "幻術師尼科爾",
+      "kr": "마술사 니콜",
+      "fr": "Nichol, illusionniste",
+      "de": "Illusionist Nichol",
+      "it": "Nichol ilusionista"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020200": 25,
+          "290030900": 13,
+          "290050300": 15,
+          "290030600": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060300": 10,
+          "290060000": 10,
+          "290060100": 10,
+          "290060200": 5,
+          "290050500": 15
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "401002204": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Pirate Jake",
+      "jp": "海盜傑科",
+      "kr": "해적 제이크",
+      "fr": "Jake, pirate",
+      "de": "Piraten-Jake",
+      "it": "Jake pirata"
+    },
+    "sex": "Male",
+    "game": "FFBE",
+    "is_summonable": true,
+    "growthPatterns": {
+      "4": 6,
+      "5": 6,
+      "6": 6
+    },
+    "awakenings": {
+      "4": {
+        "materials": {
+          "290020100": 25,
+          "290030200": 13,
+          "290050300": 15,
+          "290040000": 8,
+          "290050400": 8
+        }
+      },
+      "5": {
+        "materials": {
+          "290060100": 10,
+          "290060200": 10,
+          "290060300": 10,
+          "290060000": 5,
+          "290050500": 15
+        }
+      },
+      "6": {
+      }
+    }
+  },
   "401002304": {
     "rarity_min": 4,
     "rarity_max": 6,
@@ -11363,6 +11965,72 @@
       "5": {
         "materials": {
           "1209000835": 10
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "401002405": {
+    "rarity_min": 5,
+    "rarity_max": 6,
+    "name": {
+      "en": "Charming Kitty Ariana",
+      "jp": "迷人小貓亞莉安娜",
+      "kr": "챠밍 키티 아리아나",
+      "fr": "Ariana chaton mignon",
+      "de": "Charmantes Kätzchen Ariana",
+      "it": "Ariana minina adorable"
+    },
+    "sex": "Female",
+    "game": "Ariana Grande",
+    "is_summonable": true,
+    "growthPatterns": {
+      "5": 6,
+      "6": 6
+    },
+    "awakenings": {
+      "5": {
+        "materials": {
+          "290060400": 20,
+          "290060300": 10,
+          "290060000": 10,
+          "290060100": 5,
+          "290050500": 5
+        }
+      },
+      "6": {
+      }
+    }
+  },
+  "401002504": {
+    "rarity_min": 4,
+    "rarity_max": 6,
+    "name": {
+      "en": "Sportive Ariana",
+      "jp": "運動女孩亞莉安娜",
+      "kr": "스포츠걸 아리아나",
+      "fr": "Ariana sportive",
+      "de": "Sportliche Ariana",
+      "it": "Ariana deportista"
+    },
+    "sex": "Female",
+    "game": "Ariana Grande",
+    "is_summonable": false,
+    "growthPatterns": {
+      "4": 2,
+      "5": 2,
+      "6": 2
+    },
+    "awakenings": {
+      "4": {
+        "materials": {
+          "1209000845": 5
+        }
+      },
+      "5": {
+        "materials": {
+          "1209000845": 10
         }
       },
       "6": {

@@ -603,5 +603,16 @@
       "it": "Fragmento de Kelsus"
     },
     "awakeningType": null
+  },
+  "1209000845": {
+    "name": {
+      "en": "CD Album",
+      "jp": "CD專輯",
+      "kr": "CD 앨범",
+      "fr": "Album en CD",
+      "de": "CD-Album",
+      "it": "Álbum en CD"
+    },
+    "awakeningType": null
   }
 }
