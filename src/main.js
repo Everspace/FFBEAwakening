@@ -27,12 +27,12 @@ Promise.all(
   // Do some data manipulation
   window.ffbedata.nameToUnitId
   = Object.keys(window.ffbedata.units).map(
-    key => {
-      let o = {}
-      o[window.ffbedata.units[key].name['en']] = key
-      return o
-    }
-  ).reduce((a, b) => Object.assign({}, a, b), {})
+      key => {
+        let o = {}
+        o[window.ffbedata.units[key].name['en']] = key
+        return o
+      }
+    ).reduce((a, b) => Object.assign({}, a, b), {})
 
   render(WindowContainer)
 })
